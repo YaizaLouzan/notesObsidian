@@ -39,14 +39,27 @@
             "id": "b0ba6c2cf965b555",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2025-03-12 Examen 320b.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-12 Examen 320b"
+            }
+          },
+          {
+            "id": "05c93eb8bb3643dc",
+            "type": "leaf",
+            "state": {
               "type": "full-calendar-view",
               "state": {},
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +188,23 @@
               "icon": "lucide-list",
               "title": "Plan de Sans titre"
             }
+          },
+          {
+            "id": "da32344fb7b9f14a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +219,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b0ba6c2cf965b555",
+  "active": "406cba944634ded2",
   "lastOpenFiles": [
+    "Calendar/2025-03-12 Examen 320b.md",
+    "Calendar/2025-03-06 Examen 295.md",
     "Chapitre 1 - Introduction au cloud.md",
     "Sans titre.md",
-    "Calendar/2025-03-06 Examen 295.md",
     "Calendar/2025-03-06 Examen SI2.md",
     "Calendar/calendar.md",
     "Calendar/Sans titre.md",
