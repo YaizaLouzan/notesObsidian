@@ -73,9 +73,12 @@ Utilisé par Microsoft et d'autres grandes entreprises pour l'innovation et le d
 
 - Livraison
 	- On-demand : Ressource disponible immédiatement
-	- Préemptive : Allocation anticip
+	- Préemptive : Allocation anticipée des ressources selon la demande prévue
 ## Tarification
 
+- Pay-as-you-go : Paiment basé sur l'utilisation réelle
+- Abonnement : Coût fixe mensuel ou annuel
+- Réservation : réductoion en ré
 ## Scalabilité
 
 
