@@ -101,4 +101,7 @@ Les données et services sont répliqués sur plusieurs serveurs et datacenters 
 - CloudSigma
 - Swisscom
 
-# Hyperscaler
+# Hyperscaler - caractéristiques
+
+- Grands fournisseurs de services
+
