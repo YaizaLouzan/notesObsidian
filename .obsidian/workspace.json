@@ -46,16 +46,6 @@
             }
           },
           {
-            "id": "6f8319245d5c069d",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "4741556c252995da",
             "type": "leaf",
             "state": {
@@ -98,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
