@@ -71,5 +71,12 @@ Utilisé par Microsoft et d'autres grandes entreprises pour l'innovation et le d
 
 # Livraison, tarification et scalabilité
 
+- Livraison
+	- On-demand : Ressource disponible immédiatement
+	- Préemptive : Allocation anticip
+## Tarification
+
+## Scalabilité
+
 
  
