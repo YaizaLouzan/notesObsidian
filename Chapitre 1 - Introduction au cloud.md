@@ -78,7 +78,7 @@ Utilisé par Microsoft et d'autres grandes entreprises pour l'innovation et le d
 
 - Pay-as-you-go : Paiment basé sur l'utilisation réelle
 - Abonnement : Coût fixe mensuel ou annuel
-- Réservation : réductoion en ré
+- Réservation : réductoion en réservant des ressources à l'avance
 ## Scalabilité
 
 
