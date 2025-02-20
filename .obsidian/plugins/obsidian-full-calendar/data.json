@@ -7,10 +7,10 @@
     }
   ],
   "defaultCalendar": 0,
-  "firstDay": 0,
+  "firstDay": 1,
   "initialView": {
-    "desktop": "timeGridWeek",
+    "desktop": "dayGridMonth",
     "mobile": "timeGrid3Days"
   },
-  "timeFormat24h": false
+  "timeFormat24h": true
 }
