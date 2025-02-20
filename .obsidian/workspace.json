@@ -46,9 +46,21 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "4741556c252995da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sans titre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,10 +198,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6f8319245d5c069d",
+  "active": "7f278207bd1b15b6",
   "lastOpenFiles": [
-    "Chapitre 1 - Introduction au cloud.md",
+    "calendar.md.md",
     "Sans titre.md",
+    "Chapitre 1 - Introduction au cloud.md",
     "Bienvenue.md"
   ]
 }
