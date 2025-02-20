@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar.md.md",
+                "file": "Calendar/calendar.md.md",
                 "mode": "preview",
                 "source": false
               },
@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar.md.md",
+                "file": "Calendar/calendar.md.md",
                 "mode": "preview",
                 "source": false
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calendar.md.md",
+                "file": "Calendar/calendar.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calendar.md.md",
+                "file": "Calendar/calendar.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calendar.md.md",
+                "file": "Calendar/calendar.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -238,11 +238,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7f278207bd1b15b6",
+  "active": "65c5dabad2f48164",
   "lastOpenFiles": [
     "Calendar",
     "```full-calendar.md",
-    "calendar.md.md",
+    "Calendar/calendar.md.md",
     "Chapitre 1 - Introduction au cloud.md",
     "Sans titre.md",
     "Bienvenue.md"
