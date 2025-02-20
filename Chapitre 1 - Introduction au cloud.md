@@ -86,5 +86,9 @@ Utilisé par Microsoft et d'autres grandes entreprises pour l'innovation et le d
 
 # Emplacement physique
 
+Derrière «le cloud» se trouvent des datacenters physiques, complexes et répartis dans le monde.
+Les données et services sont répliqués sur plusieurs serveurs et datacenters pour garantir disponibilité et redondance.
 
+- Datacenter
+- 
  
