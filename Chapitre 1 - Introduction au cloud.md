@@ -96,3 +96,9 @@ Les données et services sont répliqués sur plusieurs serveurs et datacenters 
 - Systèmes de refroidissement
 - Sécurité physique (caméras)
 
+# Datacenter en Suisse
+
+- CloudSigma
+- Swisscom
+
+# Hyperscaler
