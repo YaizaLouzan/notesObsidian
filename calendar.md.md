@@ -1,5 +1,2 @@
 
 ```full-calendar
-
-
-```full-calendar

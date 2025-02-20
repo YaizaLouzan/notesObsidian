@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d88a0b3fa35d40f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "```full-calendar.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calendar.md.md",
+                "file": "```full-calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calendar.md.md",
+                "file": "```full-calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calendar.md.md"
+                "file": "```full-calendar.md"
               }
             }
           },
@@ -198,10 +210,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4741556c252995da",
+  "active": "d88a0b3fa35d40f8",
   "lastOpenFiles": [
-    "Chapitre 1 - Introduction au cloud.md",
     "calendar.md.md",
+    "```full-calendar.md",
+    "Chapitre 1 - Introduction au cloud.md",
     "Sans titre.md",
     "Bienvenue.md"
   ]
