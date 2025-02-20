@@ -90,5 +90,9 @@ Derrière «le cloud» se trouvent des datacenters physiques, complexes et répa
 Les données et services sont répliqués sur plusieurs serveurs et datacenters pour garantir disponibilité et redondance.
 
 - Datacenter
-- 
- 
+- Équipement réseau (routeur)
+- Alimentation électrique
+- Serveurs
+- Systèmes de refroidissement
+- Sécurité physique (caméras)
+
