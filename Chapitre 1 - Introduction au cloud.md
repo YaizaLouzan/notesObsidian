@@ -58,7 +58,7 @@ Utilisé par Microsoft et d'autres grandes entreprises pour l'innovation et le d
 - Confidentialité / sécurité
 	- S'assurer du respect de la nLPD
 - Risque de fuite de données
-	- Dépendence de la sécurité du fournisseur
+	- Dépendance de la sécurité du fournisseur
 - Problème de connectivité
 	- Nécessite une connexion internet
 - Performance

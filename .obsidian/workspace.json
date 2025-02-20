@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20fd550fc489846e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sans titre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 1 - Introduction au cloud.md",
+                "file": "Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 1 - Introduction au cloud.md",
+                "file": "Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,8 +146,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 1 - Introduction au cloud.md"
+                "file": "Sans titre.md"
               }
+            }
+          },
+          {
+            "id": "9b6b7c73f3dad2d9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -153,12 +173,14 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "406cba944634ded2",
+  "active": "20fd550fc489846e",
   "lastOpenFiles": [
-    "Bienvenue.md",
-    "Chapitre 1 - Introduction au cloud.md"
+    "Chapitre 1 - Introduction au cloud.md",
+    "Sans titre.md",
+    "Bienvenue.md"
   ]
 }
