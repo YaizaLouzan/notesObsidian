@@ -46,49 +46,21 @@
             }
           },
           {
-            "id": "4741556c252995da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/calendar.md.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "calendar.md"
-            }
-          },
-          {
-            "id": "d88a0b3fa35d40f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "```full-calendar.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "```full-calendar"
-            }
-          },
-          {
             "id": "65c5dabad2f48164",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/calendar.md.md",
-                "mode": "preview",
+                "file": "Calendar/Sans titre.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "calendar.md"
+              "title": "Sans titre"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/calendar.md.md",
+                "file": "Calendar/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour calendar.md"
+              "title": "Rétrolien pour Sans titre"
             }
           },
           {
@@ -180,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/calendar.md.md",
+                "file": "Calendar/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de calendar.md"
+              "title": "Liens sortants de Sans titre"
             }
           },
           {
@@ -209,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/calendar.md.md",
+                "file": "Calendar/Sans titre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de calendar.md"
+              "title": "Plan de Sans titre"
             }
           }
         ]
@@ -240,9 +212,12 @@
   },
   "active": "65c5dabad2f48164",
   "lastOpenFiles": [
-    "Calendar",
+    "Calendar/calendar.md",
+    "Calendar/Nouveau Document texte.txt",
     "```full-calendar.md",
+    "Calendar/Sans titre.md",
     "Calendar/calendar.md.md",
+    "Calendar",
     "Chapitre 1 - Introduction au cloud.md",
     "Sans titre.md",
     "Bienvenue.md"
