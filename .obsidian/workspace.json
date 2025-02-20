@@ -58,9 +58,19 @@
               "icon": "lucide-file",
               "title": "calendar"
             }
+          },
+          {
+            "id": "24ed44d993a1135a",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,7 +220,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "65c5dabad2f48164",
+  "active": "24ed44d993a1135a",
   "lastOpenFiles": [
     "Calendar/Sans titre.md",
     "Calendar/calendar.md",
