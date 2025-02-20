@@ -81,5 +81,8 @@ Utilisé par Microsoft et d'autres grandes entreprises pour l'innovation et le d
 - Réservation : réductoion en réservant des ressources à l'avance
 ## Scalabilité
 
+- Horizontale : Ajouter ou retirer des serveurs pour gérer la charge
+- Verticale : Augmenter ou réduire les ressources d'un serveur existant (ex. RAM)
+
 
  
