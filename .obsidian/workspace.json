@@ -46,20 +46,6 @@
             }
           },
           {
-            "id": "65c5dabad2f48164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/calendar.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "calendar"
-            }
-          },
-          {
             "id": "24ed44d993a1135a",
             "type": "leaf",
             "state": {
@@ -75,16 +61,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Sans titre.md",
+                "file": "Calendar/2025-03-06 Examen SI2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
+              "title": "2025-03-06 Examen SI2"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,8 +222,8 @@
   },
   "active": "e3af8e0397b79ee9",
   "lastOpenFiles": [
-    "Calendar/2025-03-06 Examen SI2.md",
     "Calendar/calendar.md",
+    "Calendar/2025-03-06 Examen SI2.md",
     "Calendar/Sans titre.md",
     "Calendar/Nouveau Document texte.txt",
     "```full-calendar.md",
