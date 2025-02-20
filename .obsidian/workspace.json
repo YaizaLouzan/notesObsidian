@@ -217,16 +217,6 @@
               "icon": "lucide-list",
               "title": "Plan de calendar.md"
             }
-          },
-          {
-            "id": "9b6b7c73f3dad2d9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ]
       }
