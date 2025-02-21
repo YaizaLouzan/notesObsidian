@@ -159,6 +159,10 @@ Déployées de manière séquentielle pour minimiser les interruptions de servic
 ## Zones de disponibilités
 -> Avaibility Zone (AZ)
 
-Contient un ou plisuers datacenters isolées au sein d'une même région. Chaque AZ est physiquement distincte et indépendante (électriquement, réseau, systèmes de reffroidissement)
+Contient un ou plisuers datacenters isolées au sein d'une même région. Chaque AZ est physiquement distincte et indépendante (électriquement, réseau, systèmes de reffroidissement).
+
+Les AZ sont conçues pour être redondantes et tolérantes aux pannes. Si une AZ subit une panne, les autres AZ de la même région peuvent prendre le relais sans interruption de service -> HAUTE DISPONIBILITÉ
+
+
 
 
