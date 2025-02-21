@@ -171,7 +171,11 @@ C'est une solution idéale pour les entreprises qui douvent stocker des données
 
 Plusieurs fournisseurs suisses se distinguent dans le cloud souverain, ce qui permet aux entreprises suisses de stocker leurs données sensibles sur des servuerus situés en Suisse.
 
-- Swisscom Cloud : Une des plus grandes entreprises de télécommunication en S
-- Exoclase
+- Swisscom Cloud : Une des plus grandes entreprises de télécommunication en Suisse
+- Exoclase : Entreprise suisse de cloud qui propose une plateforme de cloud souverain basée sur OpenStack
+- CloudSigma
+- ArtMotion
+- Nuvia
 
+# Le cloud et le climat
 
