@@ -105,5 +105,7 @@ Les données et services sont répliqués sur plusieurs serveurs et datacenters 
 
 - Grands fournisseurs de services comme Amazon, Facebook, ... 
 - Échelle mondiale
-	- Expertise et innovation qui f
+	- Expertise et innovation qui font passer le cloud au niveau supérieur
+- Gèrent des millions de serveurs et centres de données répartis à travers le monde
+- 
 
