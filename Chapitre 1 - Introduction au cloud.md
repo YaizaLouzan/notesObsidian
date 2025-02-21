@@ -152,3 +152,12 @@ Régions Azure jumelées avec au moins 500 km de distance, assurant la réplicat
 
 ### Mises à jour
 Déployées de manière séquentielle pour minimiser les interruptions de service.
+![[Pasted image 20250221073123.png]]
+
+![[Pasted image 20250221073142.png]]
+
+## Zones de disponibilités
+-> Avaibility Zone (AZ)
+
+
+
