@@ -104,5 +104,6 @@ Les données et services sont répliqués sur plusieurs serveurs et datacenters 
 # Hyperscaler - caractéristiques
 
 - Grands fournisseurs de services comme Amazon, Facebook, ... 
-PW 1 SLIDE 14
+- Échelle mondiale
+	- Expertise et innovation qui f
 
