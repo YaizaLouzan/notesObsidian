@@ -148,4 +148,7 @@ Zone géographique regroupant plusieurs datacenters, physiquement isolée pour l
 Réduire la latence, respecter les lois de résidence des données et offrir une meilleure couverture géographique.
 
 ### Régions jumelées
-Régions Azure jumelées avec au moins 500 km de distance, assura
+Régions Azure jumelées avec au moins 500 km de distance, assurant la réplication automatique et la récupération rapide en cas de panne.
+
+### Mises à jour
+Déployées de manière séquentielle pour minimiser les interruptions de service.
