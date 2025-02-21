@@ -169,6 +169,9 @@ Les AZ sont conçues pour être redondantes et tolérantes aux pannes. Si une AZ
 Le cloud souverain permet auxUS de stocker leurs données sensibles sur leur propre terrain, garantissance la conformité. Il réduit les coûts en mutualisant l'infrastructure et la maintenance avec d'autres entités gouvernementales.
 C'est une solution idéale pour les entreprises qui douvent stocker des données sensibles en toute sécurité, comme en Suisse.
 
-Plusieurs fournisseurs suisses se distinguent dans le cloud souverain, ce qui permet aux entreprises suiss
+Plusieurs fournisseurs suisses se distinguent dans le cloud souverain, ce qui permet aux entreprises suisses de stocker leurs données sensibles sur des servuerus situés en Suisse.
+
+- Swisscom Cloud : Une des plus grandes entreprises de télécommunication en S
+- Exoclase
 
 
