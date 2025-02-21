@@ -107,5 +107,8 @@ Les données et services sont répliqués sur plusieurs serveurs et datacenters 
 - Échelle mondiale
 	- Expertise et innovation qui font passer le cloud au niveau supérieur
 - Gèrent des millions de serveurs et centres de données répartis à travers le monde
-- 
+- Prix et économies d'échelle significatives
+	- Coûts réduits pour les utilisateurs
+- Technologies avancées
+- Propose des services à valeur ajoutées
 
