@@ -111,4 +111,8 @@ Les données et services sont répliqués sur plusieurs serveurs et datacenters 
 	- Coûts réduits pour les utilisateurs
 - Technologies avancées
 - Propose des services à valeur ajoutées
+	- Gestion de base de données, AI, sécurité
+- Offre une suite complète de services informatiques
+- Répartis dans le monde entier, assurant redondance et fiabilité
+- Se concentrent également
 
