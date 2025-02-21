@@ -166,6 +166,9 @@ Les AZ sont conçues pour être redondantes et tolérantes aux pannes. Si une AZ
 # Cloud souverain
 -> Localisation spécifique, conformité légale, contrôle renforcé
 
-Le cloud souverain permet auxUS de stocker leurs données sensibles sur leur propre terrain, garantissance la conformité. Il réduit les coûts en mutualisant l'infrastructure et la maintenance avec d'autres ent
+Le cloud souverain permet auxUS de stocker leurs données sensibles sur leur propre terrain, garantissance la conformité. Il réduit les coûts en mutualisant l'infrastructure et la maintenance avec d'autres entités gouvernementales.
+C'est une solution idéale pour les entreprises qui douvent stocker des données sensibles en toute sécurité, comme en Suisse.
+
+Plusieurs fournisseurs suisses se distinguent dans le cloud souverain, ce qui permet aux entreprises suiss
 
 
