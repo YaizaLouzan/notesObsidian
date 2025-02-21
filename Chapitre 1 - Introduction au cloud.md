@@ -183,4 +183,5 @@ En Suisse, Green Datacenter est un exemple de centre de cloud souverain écologi
 ![[Pasted image 20250221074038.png]]
 - Le cloud public ou privé, peut avoir un impact sur l'environnement en raison de la consommation d'énergie nécessaire pour le stockage, le traitement et le transfert de données
 - Il est possible de réduire cet impact environnemental en adoptant des pratique écologiques et en utilisant des sources d'énergie renouvelable
-- Il es tpossible de choisir des sources d'énergie renouvelables telles que l'énergie solaire ou éolienne pour alimenter le
+- Il es tpossible de choisir des sources d'énergie renouvelables telles que l'énergie solaire ou éolienne pour alimenter les centres de données.
+- Enfin, les centres de données doivent être conçus de manière à réduire leur consommation d'énergie, par exemple en utilisant des systèmes de reffroidissement efficaces ou en optimisant l'utilisation de l'espace
