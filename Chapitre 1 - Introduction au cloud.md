@@ -114,5 +114,9 @@ Les données et services sont répliqués sur plusieurs serveurs et datacenters 
 	- Gestion de base de données, AI, sécurité
 - Offre une suite complète de services informatiques
 - Répartis dans le monde entier, assurant redondance et fiabilité
-- Se concentrent également
+- Se concentrent également sur les besoins régionaux
 
+# Architectures cloud 
+
+## Haute disponibilité
+	Capable d
