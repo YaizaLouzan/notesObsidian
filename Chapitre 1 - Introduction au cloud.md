@@ -124,4 +124,5 @@ Capable d'un système à fonctionner même en cas de panne, grâce à la répart
 
 ## Résilience des données
 
-Capacité d'un système 
+Capacité d'un système à continuer de fonctionner, ou à se rétablir rapidement, après une panne, une attaque ou un incident technique
+
