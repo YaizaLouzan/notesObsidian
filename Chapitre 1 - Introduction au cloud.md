@@ -137,4 +137,4 @@ Ainsi, la haute disponibilité maintient l'accès, et la résilience protège co
 
 # Région et zone de disponibilité
 
-Les concepts de tégiosn et
+Les concepts de régions et de zones de dispo sont essentiels dans l'architecture des datacenter pour les services cloud computing. Ils permettent de garantir résilience, sécurité et performance des services 
