@@ -196,3 +196,4 @@ En Suisse, Green Datacenter est un exemple de centre de cloud souverain écologi
 
 Loi fédérale Suisse entrée en vigueur le 1er septembre 2023.
 
+PW 1 SLIDE 24
