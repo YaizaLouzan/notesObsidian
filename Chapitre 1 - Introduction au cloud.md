@@ -164,6 +164,8 @@ Contient un ou plisuers datacenters isolées au sein d'une même région. Chaque
 Les AZ sont conçues pour être redondantes et tolérantes aux pannes. Si une AZ subit une panne, les autres AZ de la même région peuvent prendre le relais sans interruption de service -> HAUTE DISPONIBILITÉ
 
 # Cloud souverain
--> Localisation spécifique, conformité légale
+-> Localisation spécifique, conformité légale, contrôle renforcé
+
+Le cloud souverain permet auxUS de stocker leurs données sensibles sur leur propre terrain, garantissance la conformité. Il réduit les coûts en mutualisant l'infrastructure et la maintenance avec d'autres ent
 
 
