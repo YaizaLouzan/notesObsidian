@@ -119,4 +119,9 @@ Les données et services sont répliqués sur plusieurs serveurs et datacenters 
 # Architectures cloud 
 
 ## Haute disponibilité
-	Capable d
+
+Capable d'un système à fonctionner même en cas de panne, grâce à la répartition des ressources sur plusieurs zones géographiques
+
+## Résilience des données
+
+Capacité d'un système 
