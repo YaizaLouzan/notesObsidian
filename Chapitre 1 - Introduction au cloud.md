@@ -177,5 +177,5 @@ Plusieurs fournisseurs suisses se distinguent dans le cloud souverain, ce qui pe
 - ArtMotion
 - Nuvia
 
-# Le cloud et le climat
-
+## Le cloud et le climat
+En Suisse, Green Datacenter est un exemple de centre de cloud souverain écologique. Ce centre utilise de l'énergie renouvelable à 100% pour alimenter ses servuers, notamment de l'énergie hydro
