@@ -180,8 +180,13 @@ Plusieurs fournisseurs suisses se distinguent dans le cloud souverain, ce qui pe
 ## Le cloud et le climat
 En Suisse, Green Datacenter est un exemple de centre de cloud souverain écologique. Ce centre utilise de l'énergie renouvelable à 100% pour alimenter ses servuers, notamment de l'énergie hydroélectrique et solaire.
 
-![[Pasted image 20250221074038.png]]
 - Le cloud public ou privé, peut avoir un impact sur l'environnement en raison de la consommation d'énergie nécessaire pour le stockage, le traitement et le transfert de données
 - Il est possible de réduire cet impact environnemental en adoptant des pratique écologiques et en utilisant des sources d'énergie renouvelable
 - Il es tpossible de choisir des sources d'énergie renouvelables telles que l'énergie solaire ou éolienne pour alimenter les centres de données.
 - Enfin, les centres de données doivent être conçus de manière à réduire leur consommation d'énergie, par exemple en utilisant des systèmes de reffroidissement efficaces ou en optimisant l'utilisation de l'espace
+
+# Cloud Microsoft en Suisse
+- Contexte initial : Microsoft devait se conformer à la loi suisse sur la protection des données, notamment pour la localisation des données.
+- Solution initiale : Certaines données étaient stockées sur des serveurs en Europe, répondant partiellement aux exigences suisses.
+- Problème : La loi suisse impose que certaines données sensibles soient exclusivement stockées en Suisse, compliquant la gestion pour les employés.
+- Solution actuelle : Microsoft propose désormais des serveurs en Suisse, garantissant la conformité légale, réduisant la latence, renforçant la sécurité et répondant aux besoins des clients suisses.
