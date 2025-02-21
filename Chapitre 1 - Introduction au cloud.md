@@ -144,4 +144,8 @@ Les concepts de régions et de zones de dispo sont essentiels dans l'architectur
 ### Région
 Zone géographique regroupant plusieurs datacenters, physiquement isolée pour limiter les incidents entre régions.
 
-### 
+### Objectifs
+Réduire la latence, respecter les lois de résidence des données et offrir une meilleure couverture géographique.
+
+### Régions jumelées
+Régions Azure jumelées avec au moins 500 km de distance, assura
