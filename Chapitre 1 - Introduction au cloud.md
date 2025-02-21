@@ -126,3 +126,15 @@ Capable d'un système à fonctionner même en cas de panne, grâce à la répart
 
 Capacité d'un système à continuer de fonctionner, ou à se rétablir rapidement, après une panne, une attaque ou un incident technique
 
+## Illustration
+Imagine une école avec des copies de ses livres dans plusieurs bibliothèques.  
+
+**Haute disponibilité** : Si une bibliothèque brûle (panne), les élèves peuvent toujours accéder aux livres dans une autre bibliothèque, assurant la continuité.
+
+**Résilience** : Les livres sont régulièrement sauvegardés. Si un livre est endommagé, une copie peut être restaurée rapidement, garantissant qu'aucune donnée n'est perdue.
+
+Ainsi, la haute disponibilité maintient l'accès, et la résilience protège contre la perte de données.
+
+# Région et zone de disponibilité
+
+Les concepts de tégiosn et
