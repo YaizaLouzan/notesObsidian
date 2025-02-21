@@ -191,3 +191,8 @@ En Suisse, Green Datacenter est un exemple de centre de cloud souverain écologi
 - **Problème** : La loi suisse impose que certaines données sensibles soient exclusivement stockées en Suisse, compliquant la gestion pour les employés.
 - **Solution actuelle** : Microsoft propose désormais des serveurs en Suisse, garantissant la conformité légale, réduisant la latence, renforçant la sécurité et répondant aux besoins des clients suisses.
 
+# nLPD
+-> Nouvelle Loi sur la Protection des Donnés
+
+Loi fédérale Suisse entrée en vigueur le 1er septembre 2023.
+
