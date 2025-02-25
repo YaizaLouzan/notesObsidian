@@ -65,3 +65,4 @@ Le **modèle de responsabilité partagée** dans les services cloud définit la 
     - **Responsabilité du client** : Écrire et gérer le code des fonctions, ainsi que la logique de sécurité des données traitées.
 
 En résumé, plus tu descends dans la pile des modèles (d'IaaS à SaaS), plus la responsabilité du fournisseur augmente, tandis que celle du client diminue.
+
