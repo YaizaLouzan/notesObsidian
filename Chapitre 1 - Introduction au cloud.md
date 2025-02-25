@@ -192,7 +192,9 @@ Plusieurs fournisseurs suisses se distinguent dans le cloud souverain, ce qui pe
 - ArtMotion
 - Nuvia
 
-## Le cloud et le climat
+# OpenStack
+**OpenStack** est une plateforme open source qui permet de créer et de gérer des infrastructures cloud, en offrant des services de calcul, de stockage et de mise en réseau. Elle permet aux utilisateurs de déployer des environnements cloud privés ou publics de manière flexible et évolutive, avec une interface de gestion centralisée. C'est utilisé par de nombreuses entreprises et organisations pour simplifier la gestion de leurs ressources cloud. 
+## (Le cloud et le climat)
 En Suisse, Green Datacenter est un exemple de centre de cloud souverain écologique. Ce centre utilise de l'énergie renouvelable à 100% pour alimenter ses servuers, notamment de l'énergie hydroélectrique et solaire.
 
 - Le cloud public ou privé, peut avoir un impact sur l'environnement en raison de la consommation d'énergie nécessaire pour le stockage, le traitement et le transfert de données
