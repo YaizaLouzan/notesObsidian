@@ -206,3 +206,10 @@ L'**Autorité de protection des données et transparence** intègre la nLPD avec
 - PPDT (préposé à la proposition des données?)
 
 - les entreprises publiques doivent s'y reférer
+
+## Droits des citoyens
+Les 2 lois précédentes incluent des droits des citoyens : 
+
+- Droit à l'information
+- Droit d'accès
+- Droit de rectificat
