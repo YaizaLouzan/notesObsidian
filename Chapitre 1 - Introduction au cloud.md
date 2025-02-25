@@ -220,4 +220,7 @@ Les 2 lois précédentes incluent des droits des citoyens :
 	- Dans certaines conditions, un individu peut demander la suppression de ses données personnelles, par exemple si elles ne sont plus nécessaires ou si le consentement est retiré.
 - Droit d'opposition et limitation du traitement
 	- Une personne peut s’opposer au traitement de ses données si cela porte atteinte à ses intérêts ou libertés. Elle peut aussi demander la limitation du traitement dans certains cas.
-- 
+- Droit à la portabilité des données
+	- Les citoyens peuvent demander que leurs données personnelles soient transmises à un autre prestataire dans un format structuré et couramment utilisé
+- Droit à ne pas être soumis à une décision automatisée
+	- 
