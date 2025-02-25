@@ -236,3 +236,5 @@ La **PPDT** régit la protection des données au niveau **cantonal** et concerne
 - **Le recours à un médiateur ou préposé cantonal** en cas de litige.
 
 📍 **À noter :** La PPDT peut varier légèrement selon les cantons, bien que les principes de base restent alignés sur la nLPD.
+
+# Niveaux de localisation des datacneters chez Micros
