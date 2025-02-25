@@ -23,15 +23,21 @@
 
 C'est un modèle où les utilisateurs louent des ressources informatiques telles que des serveurs, du stockage et des réseaux via internet, leur permettant de gérer entièrement leur infrastructure sans avoir à investir dans du matériel physique. Exemples : **Amazon EC2, Microsoft Azure Virtual Machines**.
 
+Exemple : VM
+
 ## PaaS
 -> Platform As A Service
 
 Ce modèle fournit une plateforme complète permettant aux développeurs de créer, déployer et gérer des applications sans se soucier de l'infrastructure sous-jacente. Cela inclut des outils de développement, des bases de données et des services middleware. Exemples : **Google App Engine, Microsoft Azure App Service**.
 
+Exemple : Application que l'on développe
+
 ## SaaS
 -> **Software as a Service**
 
 C'est un modèle où les utilisateurs accèdent à des applications via internet sans avoir besoin de les installer ou de les gérer localement. Les mises à jour et la maintenance sont gérées par le fournisseur. Exemples : **Google Workspace, Microsoft 365**.
+
+Exemple : Site web
 
 ## FaaS
 **-> Function as a Service**
