@@ -111,6 +111,9 @@ Un **datacenter** est une infrastructure physique utilisée pour héberger des s
 - **Tier 4** : Niveau maximal, redondance 2N+1, tolérance aux pannes totale, disponibilité de 99,995 %.
 # Hyperscaler - caractéristiques
 
+**Définition** : 
+Un **hyperscaler** est un fournisseur de cloud géant, comme **Amazon (AWS), Microsoft (Azure) ou Google (GCP)**, qui gère des **millions de serveurs** répartis dans le monde entier pour offrir des services informatiques ultra-scalables et performants. 
+
 - Grands fournisseurs de services comme Amazon, Facebook, ... 
 - Échelle mondiale
 	- Expertise et innovation qui font passer le cloud au niveau supérieur
