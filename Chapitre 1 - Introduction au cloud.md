@@ -101,6 +101,12 @@ Les données et services sont répliqués sur plusieurs serveurs et datacenters 
 - CloudSigma
 - Swisscom
 
+## Niveaux des Datacenters (Tier)
+
+- **Tier 1** : Infrastructure minimale, aucune redondance, temps de disponibilité d’environ 99,671 %.
+- **Tier 2** : Ajout de composants redondants (ex. alimentation, refroidissement), disponibilité d’environ 99,741 %.
+- **Tier 3** : Infrastructure tolérante aux pannes, redondance complète (N+1), disponibilité d’environ 99,982 %.
+- **Tier 4** : Niveau maximal, redondance 2N+1, tolérance aux pannes totale, disponibilité de 99,995 %.
 # Hyperscaler - caractéristiques
 
 - Grands fournisseurs de services comme Amazon, Facebook, ... 
