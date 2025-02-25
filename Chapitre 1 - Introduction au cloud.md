@@ -213,6 +213,11 @@ Les 2 lois précédentes incluent des droits des citoyens :
 - Droit à l'information
 	- Toute personne a le droit de savoir quelles données personnelles sont collectées, pour quelles finalités et par qui.
 - Droit d'accès
-	- Chaque citoyen peut demander gratuitement l’accès à ses données personnelles détenues par une entreprise ou une organisation. L'entité concernée doit répondre dans un délai de 1 mois
+	- Chaque citoyen peut demander gratuitement l’accès à ses données personnelles détenues par une entreprise ou une organisation. L'entité concernée doit répondre dans un délai de 1 mois.
 - Droit de rectification
+	- Si des données sont inexactes ou incomplètes, la personne concernée peut exiger leur correction.
 - Droit à l'effacement
+	- Dans certaines conditions, un individu peut demander la suppression de ses données personnelles, par exemple si elles ne sont plus nécessaires ou si le consentement est retiré.
+- Droit d'opposition et limitation du traitement
+	- Une personne peut s’opposer au traitement de ses données si cela porte atteinte à ses intérêts ou libertés. Elle peut aussi demander la limitation du traitement dans certains cas.
+- 
