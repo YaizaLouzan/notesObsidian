@@ -29,4 +29,11 @@ C'est un modèle où les utilisateurs louent des ressources informatiques telles
 Ce modèle fournit une plateforme complète permettant aux développeurs de créer, déployer et gérer des applications sans se soucier de l'infrastructure sous-jacente. Cela inclut des outils de développement, des bases de données et des services middleware. Exemples : **Google App Engine, Microsoft Azure App Service**.
 
 ## SaaS
--> 
+-> **Software as a Service**
+
+C'est un modèle où les utilisateurs accèdent à des applications via internet sans avoir besoin de les installer ou de les gérer localement. Les mises à jour et la maintenance sont gérées par le fournisseur. Exemples : **Google Workspace, Microsoft 365**.
+
+## FaaS
+**-> Function as a Service**
+
+Ce modèle permet aux utilisateurs d'exécuter des fonctions ou des morceaux de code en réponse à des événements, sans gérer l'infrastructure. C'est souvent utilisé pour des applications basées sur des microservices. Exemples : **AWS Lambda, Azure Functions**.
