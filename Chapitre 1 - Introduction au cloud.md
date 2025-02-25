@@ -203,7 +203,7 @@ Donc, on peut les stocker dans des cloud chiffrés.
 L'**Autorité de protection des données et transparence** intègre la nLPD avec des exigences supplémentaires.
 - Publiques et communes: **Toutes** les **institutions publiques** doivent respecter ces règles.
 - Sous-traitants : Si l'entité traite des données pour le public, elle doit respecter ces règles
-- PPDT (préposé à la proposition des données?)
+- PPDT (préposé à la protection des données)
 
 
 
