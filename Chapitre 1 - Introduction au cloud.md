@@ -137,7 +137,7 @@ Capable d'un système à fonctionner même en cas de panne, grâce à la répart
 
 Capacité d'un système à continuer de fonctionner, ou à se rétablir rapidement, après une panne, une attaque ou un incident technique
 
-## Illustration
+## Illustration des 2
 Imagine une école avec des copies de ses livres dans plusieurs bibliothèques.  
 
 **Haute disponibilité** : Si une bibliothèque brûle (panne), les élèves peuvent toujours accéder aux livres dans une autre bibliothèque, assurant la continuité.
@@ -150,7 +150,7 @@ Ainsi, la haute disponibilité maintient l'accès, et la résilience protège co
 
 Les concepts de régions et de zones de dispo sont essentiels dans l'architecture des datacenter pour les services cloud computing. Ils permettent de garantir résilience, sécurité et performance des services cloud à l'échelle mondiale.
 
-## Régions dans le cloud
+## (Régions dans le cloud)
 
 ### Région
 Zone géographique regroupant plusieurs datacenters, physiquement isolée pour limiter les incidents entre régions.
