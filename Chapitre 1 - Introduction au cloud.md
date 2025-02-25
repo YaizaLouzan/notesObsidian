@@ -197,3 +197,6 @@ En Suisse, Green Datacenter est un exemple de centre de cloud souverain écologi
 Loi fédérale Suisse entrée en vigueur le 1er septembre 2023. Elle s'applique à toutes les entités (publiques ou privées) et dans certains cas aux entités étrangères qui traitent des données personnelles liées à la Suisse. Elle remplace la loi de 1992 (LPD) qui n'était plus adaptée aux technologies modernes (Internet, Cloud, intelligence artificielle, Big Data). 
 
 L'**Autorité de protection des données et transparence** intègre la nLPD avec des exgences supplémentaires.
+- PPDT (préposé à la proposition des données?)
+
+- les entreprises publiques doivent s'y reférer
