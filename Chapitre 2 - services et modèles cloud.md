@@ -21,6 +21,7 @@
 ## IaaS
 -> Infrastructure As A Service
 
+C'est un modèle où les utilisateurs louent des ressources informatiques telles que des serveurs, du stockage et des réseaux via internet, leur permettant de gérer entièrement leur infrastructure sans avoir à investir dans du matériel physique. Exemples : **Amazon EC2, Microsoft Azure Virtual Machines**.
 
 ## PaaS
 
