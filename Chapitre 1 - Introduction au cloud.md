@@ -238,22 +238,18 @@ La **PPDT** régit la protection des données au niveau **cantonal** et concerne
 
 # Niveaux de localisation des datacneters chez Microsoft
 
+Les centres de données Microsoft sont certifiés.
 ## Global
 •Données stockées dans des centres à travers le monde.
 •Haute résilience, disponibilité, et performances optimisées.
 •Conformité pour les organisations internationales.
 
 ## Local
-•Données stockées dans une région spécifique.
-
-•Respect des lois locales et réduction de la latence.
-
-•Conformité avec les réglementations locales.
+- Données stockées dans une région spécifique.
+- Respect des lois locales et réduction de la latence.
+- Conformité avec les réglementations locales.
 ## Souverain
-•Cloud dédié et isolé
-
-•pour gouvernements / secteurs sensibles.
-
-•Souveraineté totale des données
-
-•sécurité et conformité maximales.
+- Cloud dédié et isolé
+- pour gouvernements / secteurs sensibles.
+- Souveraineté totale des données
+- sécurité et conformité maximales.
