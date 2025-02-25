@@ -175,6 +175,10 @@ Contient un ou plisuers datacenters isolées au sein d'une même région. Chaque
 Les AZ sont conçues pour être redondantes et tolérantes aux pannes. Si une AZ subit une panne, les autres AZ de la même région peuvent prendre le relais sans interruption de service -> HAUTE DISPONIBILITÉ
 
 # Cloud souverain
+
+**Définition:**
+Un **cloud souverain** est un service cloud dont les **données sont stockées et gérées dans un pays spécifique**, sous le **contrôle des lois locales**, garantissant ainsi **sécurité, confidentialité et indépendance vis-à-vis des acteurs étrangers**. 
+
 -> Localisation spécifique, conformité légale, contrôle renforcé
 
 Le cloud souverain permet auxUS de stocker leurs données sensibles sur leur propre terrain, garantissance la conformité. Il réduit les coûts en mutualisant l'infrastructure et la maintenance avec d'autres entités gouvernementales.
