@@ -211,5 +211,8 @@ L'**Autorité de protection des données et transparence** intègre la nLPD avec
 Les 2 lois précédentes incluent des droits des citoyens : 
 
 - Droit à l'information
+	- Toute personne a le droit de savoir quelles données personnelles sont collectées, pour quelles finalités et par qui.
 - Droit d'accès
-- Droit de rectificat
+	- Chaque citoyen peut demander gratuitement l’accès à ses données personnelles détenues par une entreprise ou une organisation. L'entité concernée doit répondre dans un délai de 1 mois
+- Droit de rectification
+- Droit à l'effacement
