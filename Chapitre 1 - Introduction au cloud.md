@@ -211,21 +211,22 @@ L'**Autorité de protection des données et transparence** intègre la nLPD avec
 Les 2 lois précédentes incluent des droits des citoyens : 
 
 ### nLPD
-- Droit à l'information
+**- Droit à l'information**
 	- Toute personne a le droit de savoir quelles données personnelles sont collectées, pour quelles finalités et par qui.
-- Droit d'accès
+**- Droit d'accès**
 	- Chaque citoyen peut demander gratuitement l’accès à ses données personnelles détenues par une entreprise ou une organisation. L'entité concernée doit répondre dans un délai de 1 mois.
-- Droit de rectification
+**- Droit de rectification**
 	- Si des données sont inexactes ou incomplètes, la personne concernée peut exiger leur correction.
-- Droit à l'effacement
+**- Droit à l'effacement**
 	- Dans certaines conditions, un individu peut demander la suppression de ses données personnelles, par exemple si elles ne sont plus nécessaires ou si le consentement est retiré.
-- Droit d'opposition et limitation du traitement
+**- Droit d'opposition et limitation du traitement**
 	- Une personne peut s’opposer au traitement de ses données si cela porte atteinte à ses intérêts ou libertés. Elle peut aussi demander la limitation du traitement dans certains cas.
-- Droit à la portabilité des données
+**- Droit à la portabilité des données**
 	- Les citoyens peuvent demander que leurs données personnelles soient transmises à un autre prestataire dans un format structuré et couramment utilisé
-- Droit à ne pas être soumis à une décision automatisée
+**- Droit à ne pas être soumis à une décision automatisée**
 	- Si une décision impactant une personne (par ex., un refus de crédit) est prise uniquement par un algorithme sans intervention humaine, elle peut demander une explication et contester cette décision.
-- En cas de violation des droits, un citoyen peut saisir le Préposé fédéral à la protection des données et à la transparence (**PFPDT**), qui peut mener une enquête et prendre des mesures.
+
+En cas de violation des droits, un citoyen peut saisir le Préposé fédéral à la protection des données et à la transparence (**PFPDT**), qui peut mener une enquête et prendre des mesures.
 
 ### PPDT
 La **PPDT** régit la protection des données au niveau **cantonal** et concerne les institutions publiques (administrations cantonales et communales). Les droits sont similaires à ceux de la nLPD, avec un accent particulier sur :
