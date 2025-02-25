@@ -100,6 +100,8 @@ Les données et services sont répliqués sur plusieurs serveurs et datacenters 
 
 - CloudSigma
 - Swisscom
+## Comment est constitué un datacenter
+Un **datacenter** est une infrastructure physique utilisée pour héberger des serveurs, des équipements réseau et des systèmes de stockage. Il est conçu pour assurer la **sécurité, la disponibilité et la performance** des données et services informatiques.
 
 ## Niveaux des Datacenters (Tier)
 
