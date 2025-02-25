@@ -19,7 +19,9 @@
 # Modèles de cloud
 
 ## IaaS
--> Infrastr
+-> Infrastructure As A Service
+
+
 ## PaaS
 
 ## SaaS
