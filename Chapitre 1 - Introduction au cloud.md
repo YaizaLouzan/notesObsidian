@@ -199,7 +199,7 @@ Loi fédérale Suisse entrée en vigueur le 1er septembre 2023. Elle s'applique 
 ## Préposé des Protection des Données et Transparence
 
 L'**Autorité de protection des données et transparence** intègre la nLPD avec des exigences supplémentaires.
-- Toutes les 
+- **Toutes** les **institutions publiques** doivent respecter ces règles.
 - PPDT (préposé à la proposition des données?)
 
 - les entreprises publiques doivent s'y reférer
