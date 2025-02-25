@@ -191,7 +191,6 @@ En Suisse, Green Datacenter est un exemple de centre de cloud souverain écologi
 - **Problème** : La loi suisse impose que certaines données sensibles soient exclusivement stockées en Suisse, compliquant la gestion pour les employés.
 - **Solution actuelle** : Microsoft propose désormais des serveurs en Suisse, garantissant la conformité légale, réduisant la latence, renforçant la sécurité et répondant aux besoins des clients suisses.
 
-Les centres de données Microsoft sont certifiés.
 # nLPD
 -> Nouvelle Loi sur la Protection des Donnés
 
@@ -237,4 +236,24 @@ La **PPDT** régit la protection des données au niveau **cantonal** et concerne
 
 📍 **À noter :** La PPDT peut varier légèrement selon les cantons, bien que les principes de base restent alignés sur la nLPD.
 
-# Niveaux de localisation des datacneters chez Micros
+# Niveaux de localisation des datacneters chez Microsoft
+
+## Global
+•Données stockées dans des centres à travers le monde.
+•Haute résilience, disponibilité, et performances optimisées.
+•Conformité pour les organisations internationales.
+
+## Local
+•Données stockées dans une région spécifique.
+
+•Respect des lois locales et réduction de la latence.
+
+•Conformité avec les réglementations locales.
+## Souverain
+•Cloud dédié et isolé
+
+•pour gouvernements / secteurs sensibles.
+
+•Souveraineté totale des données
+
+•sécurité et conformité maximales.
