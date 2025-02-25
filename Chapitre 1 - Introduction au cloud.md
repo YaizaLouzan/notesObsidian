@@ -205,7 +205,7 @@ L'**Autorité de protection des données et transparence** intègre la nLPD avec
 - Sous-traitants : Si l'entité traite des données pour le public, elle doit respecter ces règles
 - PPDT (préposé à la proposition des données?)
 
-- les entreprises publiques doivent s'y reférer
+
 
 ## Droits des citoyens
 Les 2 lois précédentes incluent des droits des citoyens : 
@@ -223,4 +223,5 @@ Les 2 lois précédentes incluent des droits des citoyens :
 - Droit à la portabilité des données
 	- Les citoyens peuvent demander que leurs données personnelles soient transmises à un autre prestataire dans un format structuré et couramment utilisé
 - Droit à ne pas être soumis à une décision automatisée
-	- 
+	- Si une décision impactant une personne (par ex., un refus de crédit) est prise uniquement par un algorithme sans intervention humaine, elle peut demander une explication et contester cette décision.
+- En cas de violation des droits, un citoyen peut saisir le Préposé fédéral à la protection des données et à la transparence (**PFPDT**), qui peut mener une enquête et prendre des mesures.
