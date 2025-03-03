@@ -8,3 +8,4 @@
 
 ## C'est quoi ?
 Plateforme de gestion unifiée pour serveurs, Kubernetes et services de données.
+Étend les capacités 
