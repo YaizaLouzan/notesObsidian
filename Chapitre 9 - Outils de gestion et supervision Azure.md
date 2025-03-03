@@ -7,4 +7,4 @@
 - Automatisation
 
 ## C'est quoi ?
-Plateforme de gestion un
+Plateforme de gestion unifiée pour servu
