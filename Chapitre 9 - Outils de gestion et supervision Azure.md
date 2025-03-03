@@ -1,2 +1,2 @@
 # Azure Arc
-## P
+## Principales fonctionna
