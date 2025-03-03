@@ -2,4 +2,5 @@
 ## Principales fonctionnalités
 - Gestion de serveurs hybrides
 - Gestion des clusters Kubernetes
-- Services de don
+- Services de données Azure
+- Go
