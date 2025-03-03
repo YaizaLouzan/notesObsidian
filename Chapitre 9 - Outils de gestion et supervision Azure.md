@@ -1,4 +1,4 @@
 # Azure Arc
 ## Principales fonctionnalités
 - Gestion de serveurs hybrides
-- Gestion des clusters 
+- Gestion des clusters Kubernetes
