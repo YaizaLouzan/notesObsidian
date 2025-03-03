@@ -1,2 +1,2 @@
 # Azure Arc
-## Principales fonctionna
+## Principales fonctionnalités
