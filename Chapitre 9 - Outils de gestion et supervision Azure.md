@@ -7,4 +7,4 @@
 - Automatisation
 
 ## C'est quoi ?
-Plateforme de gestion unifiée pour serveurs, Kuber
+Plateforme de gestion unifiée pour serveurs, Kubernetes et services 
