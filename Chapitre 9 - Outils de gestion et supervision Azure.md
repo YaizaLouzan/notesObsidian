@@ -13,4 +13,4 @@ Plateforme de gestion unifiée pour serveurs, Kubernetes et services de données
 # Azure Ressource Manager (ARM)
 Service de déploiement et de gestion d'Azure. Il permet de déployer, gérer et surveiller les ressources Azure de manière cohérente.
 
-Permet de créer, configurer, gérer et supprimer des ressources et groupes de re
+Permet de créer, configurer, gérer et supprimer des ressources et groupes de ressources
