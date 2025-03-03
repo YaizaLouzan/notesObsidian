@@ -14,7 +14,6 @@ Plateforme de gestion unifiée pour serveurs, Kubernetes et services de données
 Service de déploiement et de gestion d'Azure. Il permet de déployer, gérer et surveiller les ressources Azure de manière cohérente.
 
 Permet de créer, configurer, gérer et supprimer des ressources et groupes de ressources
-
 Permet d'organiser les ressources
 Contrôle l'accès et les ressources
 Permet l'automatisation à l'aide de différents outils et kits de développement logiciel
