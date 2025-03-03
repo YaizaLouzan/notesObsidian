@@ -16,3 +16,4 @@ Service de déploiement et de gestion d'Azure. Il permet de déployer, gérer et
 Permet de créer, configurer, gérer et supprimer des ressources et groupes de ressources
 
 Permet d'organiser les ressources
+Contrôle 
