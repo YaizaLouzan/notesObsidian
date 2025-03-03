@@ -17,4 +17,5 @@ Permet de créer, configurer, gérer et supprimer des ressources et groupes de r
 
 Permet d'organiser les ressources
 Contrôle l'accès et les ressources
-Permet l'automatisation à l'aide de différents outils et kits de développement logi
+Permet l'automatisation à l'aide de différents outils et kits de développement logiciel
+Stocke les dispo
