@@ -1,3 +1,4 @@
 # Azure Arc
 ## Principales fonctionnalités
-- Gestion de
+- Gestion de serveurs hybrides
+- 
