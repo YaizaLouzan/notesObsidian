@@ -3,4 +3,4 @@
 - Gestion de serveurs hybrides
 - Gestion des clusters Kubernetes
 - Services de données Azure
-- Go
+- Gouvernance et conformitl
