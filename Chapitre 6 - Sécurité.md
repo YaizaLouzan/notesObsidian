@@ -44,7 +44,10 @@ Fonctionnalités:
 	- Permet aux utilisateurs de se connecter une seule fois pour accéder à toutes les applications et services autorisés, sans avoir à se reconnecter pour chaque application.
 - **Gestion des applications**
 	- permet aux entreprises de centraliser et de contrôler l'accès aux applications utilisées par leurs employés
-- Services B2B (Buissiness to buissiness)
+## Services B2B (Business to business)
+Fonctionnalité utilisée lorsque vous voulez collaborer avec **des membres d'autres organisations**
+
+
 - Services B2C (buissiness to customer)
 
 # Azure Active Directory Domain Services
