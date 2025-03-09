@@ -46,3 +46,34 @@ C'est une solution serverless qui permet d'écrire moins de code, maintenir moin
 Serverless rapproche les développeurs de la logique métier tout en les isolant des problèmes d’infrastructure. Il s’agit d’un modèle qui n’implique pas « aucun serveur », mais plutôt « moins de serveurs »
 
 # Services de mise en réseau Azure
+## Le réseau virtuel Azure (VNet)
+
+Le réseau virtuel Azure (VNet) permet aux ressources Azure de communiquer en toute sécurité entre elles, sur Internet et sur les réseaux locaux.
+
+On distingue:
+
+- Points de terminaison publics, accessibles depuis n’importe où sur Internet
+- Points de terminaison privés, accessibles seulement depuis votre réseau
+- Sous-réseaux virtuels : permettant de segmenter votre réseau en fonction de vos besoins
+- Appairage de réseaux : connectez vos réseaux privés directement ensemble.
+
+## Passerelle de réseau privé virtuel (VPN)
+
+![](httLa **Passerelle de réseau privé virtuel (VPN)** d'Azure est un service qui permet de créer une **connexion sécurisée** entre le réseau local d'une entreprise (comme celui de ses bureaux ou son centre de données) et le **cloud Azure**, en utilisant **Internet**. Contrairement à **ExpressRoute**, qui utilise une connexion privée, le VPN d'Azure passe par une connexion publique, mais il chiffre les données pour garantir la **sécurité**.
+
+Azure propose deux types de connexions VPN :
+
+- **Site à site** : Ce type de VPN connecte **deux réseaux différents** (le réseau local d'une entreprise et le cloud Azure) via un tunnel VPN sécurisé. Il est généralement utilisé pour connecter des bureaux distants au cloud.
+    
+- **Point à site** : Ce type de VPN permet aux **utilisateurs individuels** (comme les employés travaillant à distance) de se connecter au cloud Azure depuis leur **ordinateur personnel** ou un autre appareil. Ils peuvent ainsi accéder aux ressources de l'entreprise de manière sécurisée depuis n'importe où.
+    
+
+**Avantages:**
+
+- **Sécurité** : Les connexions sont **chiffrées**, ce qui garantit que les données envoyées entre le réseau local et Azure sont protégées contre les menaces externes.
+    
+- **Flexibilité** : Il est possible de se connecter au cloud depuis **n'importe où** via Internet, ce qui est pratique pour les bureaux distants ou les employés qui travaillent à distance.
+    
+- **Coût** : La passerelle VPN est souvent une **option plus économique** que des connexions privées comme Azure ExpressRoute, tout en offrant une **protection des données** suffisante pour de nombreux cas d'utilisation.
+    
+- **Simplicité** : Il est facile de mettre en place une connexion VPN avec Azure, et elle ne nécessite pas d'infrastructure matérielle spéciale comme c'est le cas pour ExpressRoute.
