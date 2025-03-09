@@ -20,8 +20,8 @@
 - défense en profondeur
 - microsoft defender
 
-# Identité
-# Locataire Azure
+# Identité, accès et sécurité
+## Locataire Azure
 Un **locataire Azure** est une **instance dédiée et approuvée d'Azure Active Directory (Azure AD)**, automatiquement créée lorsque votre organisation souscrit à un service cloud Microsoft. Ce locataire représente une seule organisation et sert de base pour la gestion des identités et des accès dans un environnement cloud sécurisé.
 
 Contient:
@@ -33,7 +33,7 @@ Contient:
 
 **le terme Tenant désigne la bulle (le nuage) dans laquelle vos données vont être stockées**.
 
-# Microsoft Entra ID
+## Microsoft Entra ID
 
 -> Comme un AD ! C'est l'Active directory de Azure.
 
@@ -45,7 +45,7 @@ Fonctionnalités:
 - Services B2B (Buissiness to buissiness)
 - Services B2C (buissiness to customer)
 
-# Azure Active Directory Domain Services
+## Azure Active Directory Domain Services
 
 -> l'AD DS de Azure
 
@@ -57,7 +57,7 @@ Avantages:
 - Compatibilité
 - Sécurité intégrée
 
-Azure Multi-Factor Authentification
+## Azure Multi-Factor Authentification
 
 Méthode de sécurité renforcée qui exige au moins deux éléments d'authentification avant d'accorder un accès.
 
