@@ -59,7 +59,7 @@ On distingue:
 
 ## Passerelle de réseau privé virtuel (VPN)
 
-![](httLa **Passerelle de réseau privé virtuel (VPN)** d'Azure est un service qui permet de créer une **connexion sécurisée** entre le réseau local d'une entreprise (comme celui de ses bureaux ou son centre de données) et le **cloud Azure**, en utilisant **Internet**. Contrairement à **ExpressRoute**, qui utilise une connexion privée, le VPN d'Azure passe par une connexion publique, mais il chiffre les données pour garantir la **sécurité**.
+Le VPN d'Azure est un service qui permet de créer une **connexion sécurisée** entre le réseau local d'une entreprise (comme celui de ses bureaux ou son centre de données) et le **cloud Azure**, en utilisant **Internet**. Contrairement à **ExpressRoute**, qui utilise une connexion privée, le VPN d'Azure passe par une connexion publique, mais il chiffre les données pour garantir la **sécurité**.
 
 Azure propose deux types de connexions VPN :
 
@@ -70,10 +70,8 @@ Azure propose deux types de connexions VPN :
 
 **Avantages:**
 
-- **Sécurité** : Les connexions sont **chiffrées**, ce qui garantit que les données envoyées entre le réseau local et Azure sont protégées contre les menaces externes.
-    
-- **Flexibilité** : Il est possible de se connecter au cloud depuis **n'importe où** via Internet, ce qui est pratique pour les bureaux distants ou les employés qui travaillent à distance.
-    
-- **Coût** : La passerelle VPN est souvent une **option plus économique** que des connexions privées comme Azure ExpressRoute, tout en offrant une **protection des données** suffisante pour de nombreux cas d'utilisation.
-    
-- **Simplicité** : Il est facile de mettre en place une connexion VPN avec Azure, et elle ne nécessite pas d'infrastructure matérielle spéciale comme c'est le cas pour ExpressRoute.
+- **Sécurité** 
+- **Flexibilité** 
+- **Coût** 
+- **Simplicité**
+
