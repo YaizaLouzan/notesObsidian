@@ -11,41 +11,6 @@ Grâce à **Azure Arc**, tu peux **gérer toutes ces ressources comme si elles �
 Service de déploiement et de gestion d'Azure. Il **permet de déployer, gérer et surveiller les ressources Azure** de manière cohérente.
 - Stocke les disposition dans les fichiers JSON
 
-
-
-## Déployer les ressources d'application
-Azure Resource Manager vous permet de déployer plusieurs fois votre application avec l’assurance que vos ressources seront déployées de manière cohérente
-
-Vous définissez l’infrastructure et les dépendances de votre application dans un seul modèle déclaratif
-
-Ce modèle est suffisamment flexible pour être utilisé dans tous vos environnements : environnements de test, temporaires ou de production
-
-Si vous créez une solution depuis la Place de marché Azure, la solution inclura automatiquement un modèle que vous pouvez utiliser pour votre application
-
-## Organiser les ressources
-
-Azure Resource Manager vous aide à gérer et à visualiser les ressources dans votre application
-
-Vous n’avez plus à déployer des composants de votre application séparément, puis à les assembler manuellement
-
-Vous intégrez les ressources présentant un cycle de vie commun dans un groupe de ressources, qui peut être déployé ou supprimé dans une seule action
-
-Vous pouvez voir les ressources qui sont liées par une dépendance
-
-Vous pouvez appliquer des étiquettes aux ressources afin de les classer pour des tâches de gestion telles que la facturation
-
-## Contrôler l’accès aux ressources
-
-Avec Azure Resource Manager, vous pouvez contrôler qui, au sein de votre organisation, peut agir au niveau des ressources
-
-Vous gérez les autorisations en définissant des rôles et en ajoutant des utilisateurs ou des groupes aux rôles
-
-Pour les ressources critiques, vous pouvez appliquer un verrou explicite qui empêche les utilisateurs de supprimer ou de modifier la ressource
-
-Azure Resource Manager enregistre toutes les actions des utilisateurs afin que vous puissiez les contrôler
-
-Pour chaque action, le journal d’audit contient des informations sur l’utilisateur, l’heure, les événements et le statut
-
 # Outils de supervision Azure
 
 ## Azure Advisor
@@ -57,13 +22,6 @@ Analyse les ressources Azure déployées et formule des recommandations basées 
 3. Performances
 4. Coût
 5. Excellence opérationnelle
-
-En résumé :
-
-- Obtenez des suggestions de meilleures pratiques proactives, exploitables et personnalisées
-- Améliorez les niveaux de performances, la sécurité et la disponibilité de vos ressources
-- Identifiez les opportunités de réduire vos coûts Azure
-
 ## Azure Service Health
 C'est un ensemble de services qui vous informent de l’état général d’Azure, de l’état du service susceptible de vous impacter et de l’état d’une ressource spécifique qui vous impacte
 
