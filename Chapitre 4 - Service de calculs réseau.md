@@ -75,3 +75,11 @@ Azure propose deux types de connexions VPN :
 - **Coût** 
 - **Simplicité**
 
+## Azure ExpressRoute
+Service de Microsoft Azure qui permet de **créer une connexion directe entre le réseau local d'une entreprise et le cloud Azure, sans passer par Internet**. En général, Azure ExpressRoute fonctionne en collaboration avec des **fournisseurs de services** locaux, qui mettent en place une connexion privée (souvent via la fibre optique ou des réseaux privés) entre le réseau de l’entreprise et le cloud d’Azure. Cela permet d'établir un **accès dédié** aux ressources d'Azure, sans transiter par Internet.
+
+- **Performance optimisée** : ExpressRoute évite les embouteillages d’Internet en offrant une connexion rapide avec une **latence faible**, idéale pour les applications critiques qui nécessitent une réactivité immédiate.
+    
+- **Sécurité renforcée** : La connexion ne transite pas par Internet, ce qui réduit considérablement les risques d’interceptions ou de **cyberattaques**.
+    
+- **Fiabilité accrue** : ExpressRoute est conçu pour être plus stable et offrir une meilleure **continuité de service**, ce qui est essentiel pour les entreprises qui dépendent de services cloud pour leurs opérations.
