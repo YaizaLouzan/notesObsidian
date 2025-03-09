@@ -18,6 +18,8 @@ Pour garantir la disponibilité des données, Azure offre plusieurs options de r
 - **ZRS (Zone-Redundant Storage)** : Réplication dans plusieurs zones d'une même région Azure pour une disponibilité élevée.
 
 
-| Configuration de la redondance    | Déploiement              | Disponibilité |
-| --------------------------------- | ------------------------ | ------------- |
-| Stockage localement redondant LRS | Centre de données unique |               |
+| Configuration de la redondance    | Déploiement                                                      | Disponibilité |
+| --------------------------------- | ---------------------------------------------------------------- | ------------- |
+| Stockage localement redondant LRS | Centre de données unique dans la région primaire                 | 11 neuf       |
+| Stockage redondant interzone ZRS  | Trois zones de disponibilité dans la région primaire             | 12 neuf       |
+| Stockage géo-redondant            | Centre de données unique dans les régions primaire et secondaire |               |
