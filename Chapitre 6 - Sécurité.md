@@ -1,25 +1,3 @@
-- identité et ce machin
-
-	- entra id
-	- azure a dds
-	- auth
-
-		- MFA et SSO et machin (petite définition)
-
-	- acces conditionnel
-
-- diff entre auth et autorisation (authz et auth?)
-- azure MFA
-- b2b , b2c expliquer simplement
-- accès conditionnel - important
-
-	- a quoi ca peut servir
-
-- RBAC azure
-- zero thrust
-- défense en profondeur
-- microsoft defender
-
 # Locataire Azure
 Un **locataire Azure** est une **instance dédiée et approuvée d'Azure Active Directory (Azure AD)**, automatiquement créée lorsque votre organisation souscrit à un service cloud Microsoft. Ce locataire représente une seule organisation et sert de base pour la gestion des identités et des accès dans un environnement cloud sécurisé.
 
@@ -143,3 +121,4 @@ Approche de sécurité qui utilise plusieurs couches de protection pour réduire
 7. Données
 
 # Microsoft Defender pour le cloud
+Service de sécurité qui offre une protection complète pour vos ressources cloud et locaux (services hybrides). Il surveille en permanence vos systèmes et vous alerte en cas de menaces potentielles. Il aide également à renforcer votre sécurité en vous fournissant des recommandations et des outils pour corriger les vulnérabilités.
