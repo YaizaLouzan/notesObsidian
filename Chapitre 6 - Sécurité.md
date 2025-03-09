@@ -58,7 +58,24 @@ Avantages:
 - Gestion simplifiée
 - Compatibilité
 - Sécurité intégrée
+# Accès conditionnel
+Les contrôles d'accès conditionnel dans Azure permettent de sécuriser l'accès aux ressources en appliquant des conditions spécifiques, assurant ainsi une protection adaptée tout en offrant une expérience utilisateur fluide.
 
+## Principales Conditions :
+
+1. **Emplacement :** Restriction d'accès selon la géolocalisation de l'utilisateur.
+2. **Appareil :** Vérification de la conformité de l'appareil aux politiques de sécurité.
+3. **Application :** Application de conditions spécifiques pour chaque application.
+4. **Utilisateurs et Groupes :** Application de politiques selon les groupes d'utilisateurs ou les rôles.
+    
+
+**Actions :**
+
+- **Accorder l'accès :** Permet l'accès si les conditions sont remplies.
+    
+- **Bloquer l'accès :** Refuse l'accès si les conditions ne sont pas satisfaites.
+    
+- **Exiger une authentification supplémentaire :** Par exemple, une authentification multi-facteurs pour renforcer la sécurité.
 # Authentification
 ## Azure Multi-Factor Authentification
 
