@@ -74,3 +74,13 @@ Service de stockage dans le cloud qui permet de créer et de gérer des **partag
 
 ## Stockage de table
 Service qui stocke des données **NoSQL structurées** dans le cloud, fournissant un magasin de clés/attributs avec une conception sans schéma.
+
+## Azure data lake
+
+Azure NetApp Files
+
+Azure File Sync
+
+Azure Stack Edge
+
+az
