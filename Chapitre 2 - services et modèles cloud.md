@@ -88,3 +88,8 @@ Combine cloud public et privé, offrant flexibilité et scalabilité. **Permet d
 Exemples : 
 - Applications critiques sur cloud privé
 - Scalabilité via cloud public.
+
+# Cloud on-permise
+C'est une infrastructure hébergée et gérée **localement** dans les locaux de l'entreprise. Elle adopte des principes du cloud (virtualisation, automatisation, gestion des ressources) et offre un **contrôle total sur les données** et systèmes, tout en permettant certains avantages du cloud, tels que l'élasticité et l'optimisation des ressources.
+
+•Convient aux organisations ayant des exigences strictes en matière de sécurité et de conformité.
