@@ -75,8 +75,14 @@ Exemples :
 - OpenStack
 
 ## Cloud public
-Fournit des ressources partagées (serveurs, stockage) via un fournisseur tiers. **Accès à travers Internet, ressources partagées entre plusieurs clients.
+Fournit des ressources partagées (serveurs, stockage) via un fournisseur tiers. **Accès à travers Internet, ressources partagées entre plusieurs clients.**
 Exemples : 
 - AWS
 - Microsoft Azure
 - Google Cloud
+
+## Cloud hybride
+Combine cloud public et privé, offrant flexibilité et scalabilité. **Permet d'utiliser des ressources internes et externes selon les besoins.**
+Exemples : 
+- Applications critiques sur cloud privé
+- Scalabilité via cloud public.
