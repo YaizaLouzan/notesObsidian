@@ -1,7 +1,20 @@
 # Facteurs affectant les coûts
+1. Type de ressource
+2. Consommation
+3. Maintenance
+4. Géographie
+5. Trafic réseau
+6. Abonnement
 
+# Calculatrice de prix
+La calculatrice de prix est un outil qui permet d’estimer le coût des produits Azure. Les options que vous pouvez configurer dans la calculatrice de prix varient selon les produits, mais les options de configuration de base sont les suivantes:
 
-qu'est-ce qui peut agir sur le cout d'une ressource
+- Région
+- Niveau
+- Options de facturation
+- Options de support
+- Programmes et offres
+- Tarification de Dev/Test Azure
 - calculatrice des prix
 
 - tco y compris
