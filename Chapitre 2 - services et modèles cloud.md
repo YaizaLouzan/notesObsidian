@@ -66,3 +66,6 @@ Le **modèle de responsabilité partagée** dans les services cloud définit la 
 
 En résumé, plus tu descends dans la pile des modèles (d'IaaS à SaaS), plus la responsabilité du fournisseur augmente, tandis que celle du client diminue.
 
+# Modèles cloud
+
+## Cloud privé
