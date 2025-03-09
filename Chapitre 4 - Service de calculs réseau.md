@@ -26,7 +26,7 @@ Exemples : Amazon EC2, Microsoft Azure VMs, Google Compute Engine.
 | 🔧 **Bare Metal**                            | IaaS                               |
 | Serverless                                   | Faas / PaaS                        |
 
-# Services de mise en réseau Azure
+# Services de calcul réseau Azure
 Communication sécurisée entre les ressources Azure, Internet, et les réseaux locaux.
 
 - **Points de terminaison publics** : accessibles depuis n'importe où sur Internet.
@@ -45,4 +45,4 @@ Les conteneurs Azure offrent un environnement virtualisé léger ne nécessitant
 C'est une solution serverless qui permet d'écrire moins de code, maintenir moins d'infrastructure et moins coûteuse.
 Serverless rapproche les développeurs de la logique métier tout en les isolant des problèmes d’infrastructure. Il s’agit d’un modèle qui n’implique pas « aucun serveur », mais plutôt « moins de serveurs »
 
-
+# Services de mise en réseau Azure
