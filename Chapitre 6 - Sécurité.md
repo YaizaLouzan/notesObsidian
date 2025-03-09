@@ -51,11 +51,11 @@ Fonctionnalité utilisée lorsque vous voulez collaborer avec **des membres d'au
 1. Inviter des utilisateurs externes  
 2. Pas besoin de créer des comptes dans votre annuaire
     - Les utilisateurs gardent leurs identités d'origine (leurs propres identifiants). Cela réduit la gestion des identités dans votre système.
-3. **Sécurité renforcée** :
-    
-    - Vous pouvez appliquer vos **politiques de sécurité** (authentification multi-facteurs, restrictions d'accès, etc.) même pour ces comptes externes.
+3. Sécurité renforcée
+    - Vous pouvez appliquer vos **politiques de sécurité** 
 
-- Services B2C (buissiness to customer)
+## Services B2C (business to Customer)
+
 
 # Azure Active Directory Domain Services
 
