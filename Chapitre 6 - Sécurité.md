@@ -76,7 +76,18 @@ Ce facteur ajoute une barrière supplémentaire en s'assurant que seul l'utilisa
 
 - Quelque chose que vous êtes :
 
-Ce facteur fait référence à une caractéristique biométrique unique à l'utilisateur, telle qu'une empreinte digitale, un scan du visage ou de l'iris. De nombreux appareils mobiles modernes intègrent cette technologie pour une authentification plus rapide et sécurisée.
+Ce facteur fait référence à une c**aractéristique biométrique unique à l'utilisateur**, telle qu'une **empreinte digitale, un scan du visage ou de l'iris**. De nombreux appareils mobiles modernes intègrent cette technologie pour une authentification plus rapide et sécurisée.
+
+### Comparaison entre authentification et autorisation
+#### Authentification - AuthN
+- Identifie la personne ou le service cherchant à accéder à une ressource
+    
+- Demande des informations d’identification d’accès légitimes
+    
+- Sert de fondement pour créer des principes sécurisés d’identité et de contrôle d’accès
+
+
+
 
 # External Identities - accès et sécurité azure
 
