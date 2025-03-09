@@ -29,3 +29,6 @@ Exemples : Amazon EC2, Microsoft Azure VMs, Google Compute Engine.
 # Azure Virtual Desktop
 Service de virtualisation de bureau et d’application, permet de créer un environnement complet de virtualisation de bureau
 
+# Azure Containers Services
+
+Les conteneurs Azure offrent un environnement virtualisé léger ne nécessitant pas de gérer le système d’exploitation mais capable de répondre aux changements à la demande
