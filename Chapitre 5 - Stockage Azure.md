@@ -83,8 +83,9 @@ Grands volumes de données dans leur forme originale
 ## Azure File Sync
 Service permettant d'archiver plusieurs partages dans un serveur Windows on-permise ou dans une VM cloud
 ## Azure Stack Edge
-
+Aide à résoudre les problèmes de latence ou de connectivité en traitant les données à proximité de la source
 ## Azure Data Box
+permet d'envoyer des téraoctets de **données locales** vers Azure
 
 ## Azure Elastic SAN
 
