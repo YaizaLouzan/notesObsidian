@@ -10,7 +10,8 @@ ou
 - Lecture seule
 # Portail d'appobation de service
 Portail qui permet d’accéder à divers contenus, outils et autres ressources concernant les pratiques de sécurité, de confidentialité et de conformité Microsoft
-On y trouve
+
+On y trouve des documentations du type:
 
 - Rapports d'audit et de conformité
 - Engagements de sécurité et confidentialité
@@ -19,5 +20,4 @@ On y trouve
 - Outils de gestion de la conformité
 - Ressources par région et secteur
 - Conditions générales et documents contractuels
-- Bibliothèque de conformitl
-- types de doc qu'on trouve sur ce portail
+- Bibliothèque de conformité
