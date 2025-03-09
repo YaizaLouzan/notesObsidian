@@ -55,7 +55,18 @@ Fonctionnalité utilisée lorsque vous voulez collaborer avec **des membres d'au
     - Vous pouvez appliquer vos **politiques de sécurité** 
 
 ## Services B2C (business to Customer)
+**Pour gérer des utilisateurs externes finaux (vos clients)** 
+Azure AD B2C est conçu pour les **entreprises** qui interagissent avec des clients ou utilisateurs finaux. Ces derniers se connectent à vos **applications grand public**.
 
+### Principes
+1. **Créer une expérience utilisateur personnalisée** :
+    - Azure AD B2C vous permet de créer des pages de connexion/inscription **avec votre marque** (logo, design, etc.). Vos clients peuvent s'inscrire et se connecter à vos applications.    
+2. **Gérer les identités des clients** :
+    - Vos clients peuvent utiliser **leur propre compte** (par ex. Google, Facebook, Microsoft) ou créer un nouveau compte avec une adresse e-mail et un mot de passe.  
+3. **Haute sécurité pour les applications grand public** :
+    - Authentification multi-facteurs et autres mesures pour protéger les comptes de vos clients.    
+4. **Évolutivité** :
+    - Conçu pour gérer des millions de clients finaux.
 
 # Azure Active Directory Domain Services
 
