@@ -47,3 +47,17 @@ Pour savoir combien de temps un serveur peut rester indisponible.
 
 # Services de stockage
 ## Conteneur de stockage - blob
+Optimisé pour stocker des quantités massives de **données non structurées**
+
+Principalement utilisé:
+
+- **Stockage d’objets multimédias** : Images, vidéos, fichiers audio pour des applications web ou mobiles.
+    
+- **Sauvegarde et restauration** : Fichiers de sauvegarde, bases de données ou disques virtuels.
+    
+- **Big Data et analytique** : Stockage de données non structurées pour des traitements et analyses massives.
+    
+- **Archivage** : Conservation de données sur le long terme avec le niveau Archive.
+
+## Stockage sur disque
+Service cloud de Microsoft Azure qui fournit des disques virtuels persistants pour les machines virtuelles (VM) et les autres services Azure. Il est utilisé principalement pour attacher un espace de stockage durable aux VM
