@@ -98,3 +98,6 @@ Plateforme permettant de collecter des données sur vos ressources, d’analyser
 - Actions d’automatisation
 - Tableaux de bord personnalisés
 
+# Azure Cloud Shell
+
+# Azure CLI
