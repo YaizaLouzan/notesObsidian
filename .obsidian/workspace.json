@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Défense",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,7 +197,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -305,7 +306,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4260c22322287142",
+  "active": "9a75360c591db07c",
   "lastOpenFiles": [
     "Chapitre 5 - Stockage Azure.md",
     "Chapitre 6 - Sécurité.md",
