@@ -85,9 +85,9 @@ Service permettant d'archiver plusieurs partages dans un serveur Windows on-perm
 ## Azure Stack Edge
 Aide à résoudre les problèmes de latence ou de connectivité en traitant les données à proximité de la source
 ## Azure Data Box
-permet d'envoyer des téraoctets de **données locales** vers Azure
-
+Permet d'envoyer des téraoctets de **données locales** vers Azure
 ## Azure Elastic SAN
+ermet de sécuriser et de contrôler le niveau d'accès à vos volumes
 
 ## Stockage de conteneur Azure
 
