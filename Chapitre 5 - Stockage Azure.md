@@ -63,4 +63,5 @@ Principalement utilisé:
 Service cloud de Microsoft Azure qui fournit des disques virtuels persistants pour les VM et les autres services Azure. Il est utilisé principalement pour **attacher un espace de stockage durable aux VM**
 
 ## Azure Files
-Service de stockage dans le cloud proposé par Microsoft Azure qui permet de créer et de gérer des partages de fichiers accessibles via les protocoles SMB (Server Message Block) et NFS (Network File System). Il s'agit d'une solution entièrement managée qui offre les avantages du stockage de fichiers traditionnels avec la flexibilité du cloud.
+Service de stockage dans le cloud qui permet de créer et de gérer des **partages de fichiers** accessibles via les protocoles SMB et NFS. Il s'agit d'une solution entièrement managée qui offre les avantages du stockage de fichiers traditionnels avec la flexibilité du cloud. Ce service permet :
+
