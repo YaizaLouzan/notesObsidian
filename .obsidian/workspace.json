@@ -218,7 +218,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rapport d'audi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,7 +239,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -347,7 +348,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7ace878e130a8728",
+  "active": "9a75360c591db07c",
   "lastOpenFiles": [
     "Chapitre 8 - Gouvernance et conformité.md",
     "Chapitre 9 - Outils de gestion et supervision Azure.md",
