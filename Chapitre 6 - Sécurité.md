@@ -25,6 +25,7 @@
 - défense en profondeur
 - microsoft defender
 # Locataire Azure
+Un **locataire Azure** est une **instance dédiée et approuvée d'Azure Active Directory (Azure AD)**, automatiquement créée lorsque votre organisation souscrit à un service cloud Microsoft tel que **Microsoft Azure**, **Microsoft Intune** ou **Office 365**. Ce locataire représente une seule organisation et sert de base pour la gestion des identités et des accès dans un environnement cloud sécurisé.
 
 Contient:
 
