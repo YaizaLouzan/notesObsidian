@@ -25,11 +25,16 @@ Pour garantir la disponibilité des données, Azure offre plusieurs options de r
 | Stockage géo redondant GRS            | Centre de données unique dans les régions primaire et secondaire                                              | 16 neuf       |
 | Stockage géo redondant interzone GZRS | Trois zones de disponibilité dans la région primaire et un centre de données unique dans la région secondaire | 16 neuf       |
 ## Nombre de neuf
+Le terme "9" se réfère au niveau de **disponibilité** ou de **durabilité** garanti par un fournisseur. Il est généralement exprimé en pourcentage avec des "9" répétés, comme **99,9%** ou **99,9999%**, et représente une promesse de fiabilité du service.
+
+Explication des **"9" en redondance** :
+
+- **99,9%** (trois 9) : Cela signifie une disponibilité de **99,9%**, ce qui correspond à environ **8,77 heures** d’indisponibilité maximale autorisée par an.
 Le nombre de 9 correspondent à un pourcentage où le serveur est fonctionnel.
 
-EXEMPLE : S'il y a 5 neufs
+EXEMPLE : **S'il y a 5 neufs**
 
-On parle de 99,999% car ça fait 5 9 en tout
+On parle de 99,999% car ça fait 5 neuf en tout
 
 EXEMPLE DE CALCUL
 
