@@ -40,6 +40,6 @@ CALCUL
 
 	0.001%   (temps serveur non fonctionnel)
 car 100% - 99,999% = 0,001%
-Pour savoir combien de temps un serveur peut xxxxx
+Pour savoir combien de temps un serveur peut rester indisponible.
 
 365 [jours] * 24 [heures] * 60 [minutes] = temps en minutes -> * (0.001/100) = 5.256 minutes
