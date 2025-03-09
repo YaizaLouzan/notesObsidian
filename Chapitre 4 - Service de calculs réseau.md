@@ -26,3 +26,6 @@ Exemples : Amazon EC2, Microsoft Azure VMs, Google Compute Engine.
 | 🔧 **Bare Metal**                            | IaaS                               |
 | Serverless                                   | Faas / PaaS                        |
 
+# Azure Virtual Desktop
+Service de virtualisation de bureau et d’application, permet de créer un environnement complet de virtualisation de bureau
+
