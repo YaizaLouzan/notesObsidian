@@ -99,5 +99,5 @@ Plateforme permettant de collecter des données sur vos ressources, d’analyser
 - Tableaux de bord personnalisés
 
 # Azure Cloud Shell
-
+Terminal basé sur un navigateur qui fournit une expérience d'interpréteur de commandes authentifiée et préconfigurée pour gérer les ressources Azure
 # Azure CLI
