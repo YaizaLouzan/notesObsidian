@@ -68,6 +68,8 @@ En résumé, plus tu descends dans la pile des modèles (d'IaaS à SaaS), plus l
 
 # Modèles cloud
 
+![[Pasted image 20250309151606.png]]
+
 ## Cloud privé
 Environnement dédié à une seule organisation, hébergé sur site ou par un tiers. **Accès limité et contrôle accru sur la sécurité des données.** 
 Exemples : 
