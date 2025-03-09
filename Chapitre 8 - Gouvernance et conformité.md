@@ -15,5 +15,9 @@ On y trouve
 - Rapports d'audit et de conformité
 - Engagements de sécurité et confidentialité
 - Modèles et ressources de mise en conformité
-- Livre
+- Livres blancs et guides techniques
+- Outils de gestion de la conformité
+- Ressources par région et secteur
+- Conditions générales et documents contractuels
+- Bibliothèque de conformitl
 - types de doc qu'on trouve sur ce portail
