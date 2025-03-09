@@ -19,7 +19,7 @@ Service de déploiement et de gestion d'Azure. Il permet de déployer, gérer et
 - Permet l'automatisation à l'aide de différents outils et kits de développement logiciel
 - Stocke les disposition dans les fichiers JSON
 
-## Gouvernance et conf
+## Gouvernance et conformité
 Les modèles ARM (Azure Resource Manager) sont des fichiers JSON (JavaScript Object Notation) utilisés pour créer et déployer une infrastructure Azure sans devoir écrire de commandes de programmation.
 
 - Syntaxe déclarative
@@ -30,3 +30,11 @@ Les modèles ARM (Azure Resource Manager) sont des fichiers JSON (JavaScript Obj
 - Code exportable
 
 ## Déployer les ressources d'application
+Azure Resource Manager vous permet de déployer plusieurs fois votre application avec l’assurance que vos ressources seront déployées de manière cohérente
+
+Vous définissez l’infrastructure et les dépendances de votre application dans un seul modèle déclaratif
+
+Ce modèle est suffisamment flexible pour être utilisé dans tous vos environnements : environnements de test, temporaires ou de production
+
+Si vous créez une solution depuis la Place de marché Azure, la solution inclura automatiquement un modèle que vous pouvez utiliser pour votre application
+
