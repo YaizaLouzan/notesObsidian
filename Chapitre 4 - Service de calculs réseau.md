@@ -5,6 +5,8 @@ Le développeur ne gère que le code de l’application, le fournisseur provisio
 
 Vous n'avez pas à vous soucier des serveurs, des machines ou de la gestion des ressources, tout est automatisé
 
+exécute une fonction quand on le demande. on sera facturé par rapport au nbre de fois qu'n l'exécute
+
 - Bare Metal
 Serveurs physiques dédiés, offrant des performances maximales tout en bénéficiant de la flexibilité du cloud. **Exemples** : AWS Bare Metal Instances, IBM Cloud Bare Metal Servers
 
@@ -17,10 +19,10 @@ Exemples : Amazon ECS, Google Kubernetes Engine.
 Exemples : Amazon EC2, Microsoft Azure VMs, Google Compute Engine.
 
 
-| Option de calcul                             | Modèle de cloud                    | Explication                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| -------------------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🖥 **Machines Virtuelles (VMs)**             | IaaS (Infrastructure as a Service) | Le fournisseur cloud gère le matériel et la virtualisation, mais l’utilisateur gère le système d’exploitation et les applications. Ex : AWS EC2, Azure VM.                                                                                                                                                                                                                                                                                                       |
-| 📦 **Conteneurs (Docker, Kubernetes, etc.)** | IaaS / PaaS                        | Sur IaaS, l’utilisateur gère l’infrastructure et l’orchestration (ex: Kubernetes sur AWS). Sur PaaS, le fournisseur simplifie la gestion (ex: Google Kubernetes Engine).                                                                                                                                                                                                                                                                                         |
-| 🔧 **Bare Metal**                            | IaaS                               | Serveur physique dédié sans virtualisation. Utile pour des charges lourdes comme les bases de données critiques.                                                                                                                                                                                                                                                                                                                                                 |
-| Serverless                                   | Faas / PaaS                        | Le fournisseur cloud gère **entièrement** l’infrastructure (serveurs, mise à l’échelle, maintenance).<br>- L’utilisateur ne gère que **le code** et paye uniquement pour l’exécution.- Certains services **PaaS** sont aussi considérés comme "serverless" car ils éliminent la gestion des serveurs (ex: **Google App Engine, AWS Fargate**).<br>- Contrairement à **FaaS**, ce sont des **environnements complets** pour héberger des applications web et API. |
+| Option de calcul                             | Modèle de cloud                    |
+| -------------------------------------------- | ---------------------------------- |
+| 🖥 **Machines Virtuelles (VMs)**             | IaaS (Infrastructure as a Service) |
+| 📦 **Conteneurs (Docker, Kubernetes, etc.)** | IaaS / PaaS                        |
+| 🔧 **Bare Metal**                            | IaaS                               |
+| Serverless                                   | Faas / PaaS                        |
 
