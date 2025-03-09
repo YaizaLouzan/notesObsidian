@@ -14,3 +14,9 @@ Offre un accès authentifié et autorisé aux comptes Azure.
 
 ![[Pasted image 20250309154736.png]]
 
+# Groupe d'administration
+Pas à savoir pour l'examen.
+
+Peut inclure plusieurs abonnements Azure, les abonnements héritent des conditions du groupe d'administration.
+Supporte jusqu'à 10 000 groupes d'administration par annuaire.
+Arborescence jusqu'à 6 niveaux de profondeur.
