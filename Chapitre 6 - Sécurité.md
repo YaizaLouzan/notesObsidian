@@ -40,7 +40,7 @@ Contient:
 Fonctionnalités:
 
 - Authentification des employés
-- Authentification unique (SSO)
+- **Authentification unique (SSO)**
 - Gestion des applications
 - Services B2B (Buissiness to buissiness)
 - Services B2C (buissiness to customer)
