@@ -76,6 +76,8 @@ Exemples :
 - VMWare Cloud 
 - OpenStack
 
+Avantages : 
+1. 
 ## Cloud public
 Fournit des ressources partagées (serveurs, stockage) via un fournisseur tiers. **Accès à travers Internet, ressources partagées entre plusieurs clients.**
 Exemples : 
