@@ -81,6 +81,8 @@ Grands volumes de données dans leur forme originale
 ## Azure NetApp Files
 
 ## Azure File Sync
+Service permettant d'a
+**service that allows you to cache several Azure file shares on an on-premises Windows Server or cloud VM**
 
 ## Azure Stack Edge
 
