@@ -84,9 +84,15 @@ Service de Microsoft Azure qui permet de **créer une connexion directe entre le
     
 - **Fiabilité accrue** : ExpressRoute est conçu pour être plus stable et offrir une meilleure **continuité de service**, ce qui est essentiel pour les entreprises qui dépendent de services cloud pour leurs opérations.
 
-## RBAC 
+## Azure DNS service
+
+Azure DNS est conçu pour être **rapide** et **fiable** grâce à un réseau mondial de serveurs DNS répartis dans plusieurs centres de données. Il utilise une technologie appelée **Anycast**, qui permet d’envoyer les requêtes DNS (celles qui convertissent les noms de domaine en adresses IP) vers le **serveur le plus proche** de l’utilisateur. Cela garantit que les **temps de réponse** sont plus rapides, peu importe où se trouve l’utilisateur dans le monde, et cela améliore également la **disponibilité** du service.
+
+Azure DNS tire parti de la sécurité offerte par **Azure Resource Manager**, qui est la plateforme de gestion des ressources dans Azure. Un aspect clé de cette sécurité est le **RBAC** (**Role-Based Access Control**).
+### RBAC 
 Le **contrôle d'accès basé sur les rôles (RBAC)** est un système qui permet de **limiter l’accès** aux ressources en fonction des rôles des utilisateurs. Autrement dit, chaque personne dans une entreprise a des **droits** spécifiques en fonction de son **rôle** :
 
 - Par exemple, un administrateur système peut avoir accès à tout, tandis qu’un développeur pourrait seulement avoir accès à certaines zones DNS.
     
 - RBAC garantit que **seules les personnes autorisées** peuvent modifier ou consulter certaines ressources, ce qui renforce la **sécurité** et empêche les erreurs ou les changements accidentels.
+### Anycast
