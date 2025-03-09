@@ -26,16 +26,6 @@ Exemples : Amazon EC2, Microsoft Azure VMs, Google Compute Engine.
 | 🔧 **Bare Metal**                            | IaaS                               |
 | Serverless                                   | Faas / PaaS                        |
 
-# Azure Virtual Desktop
-Service de virtualisation de bureau et d’application, permet de créer un environnement complet de virtualisation de bureau
-
-# Azure Containers Services
-
-Les conteneurs Azure offrent un environnement virtualisé léger ne nécessitant pas de gérer le système d’exploitation mais capable de répondre aux changements à la demande
-
-# Azure Fonctions
-C'est une solution serverless qui permet d'écrire moins de code, maintenir moins d'infrastructure et moins coûteuse.
-
 # Services de mise en réseau Azure
 Communication sécurisée entre les ressources Azure, Internet, et les réseaux locaux.
 
@@ -43,4 +33,14 @@ Communication sécurisée entre les ressources Azure, Internet, et les réseaux 
 - **Points de terminaison privés** : accessibles uniquement depuis votre réseau interne.
 - **Sous-réseaux virtuels **: segmentation de votre réseau selon vos besoins.
 - **Appairage de réseaux** : connectez directement vos réseaux privés ensemble pour une meilleure intégration.
+
+## Azure Virtual Desktop
+Service de virtualisation de bureau et d’application, permet de créer un environnement complet de virtualisation de bureau
+
+## Azure Containers Services
+
+Les conteneurs Azure offrent un environnement virtualisé léger ne nécessitant pas de gérer le système d’exploitation mais capable de répondre aux changements à la demande
+
+## Azure Fonctions
+C'est une solution serverless qui permet d'écrire moins de code, maintenir moins d'infrastructure et moins coûteuse.
 
