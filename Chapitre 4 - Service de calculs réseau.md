@@ -83,3 +83,10 @@ Service de Microsoft Azure qui permet de **créer une connexion directe entre le
 - **Sécurité renforcée** : La connexion ne transite pas par Internet, ce qui réduit considérablement les risques d’interceptions ou de **cyberattaques**.
     
 - **Fiabilité accrue** : ExpressRoute est conçu pour être plus stable et offrir une meilleure **continuité de service**, ce qui est essentiel pour les entreprises qui dépendent de services cloud pour leurs opérations.
+
+## RBAC 
+Le **contrôle d'accès basé sur les rôles (RBAC)** est un système qui permet de **limiter l’accès** aux ressources en fonction des rôles des utilisateurs. Autrement dit, chaque personne dans une entreprise a des **droits** spécifiques en fonction de son **rôle** :
+
+- Par exemple, un administrateur système peut avoir accès à tout, tandis qu’un développeur pourrait seulement avoir accès à certaines zones DNS.
+    
+- RBAC garantit que **seules les personnes autorisées** peuvent modifier ou consulter certaines ressources, ce qui renforce la **sécurité** et empêche les erreurs ou les changements accidentels.
