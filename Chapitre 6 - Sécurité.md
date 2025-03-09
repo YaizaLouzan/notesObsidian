@@ -1,3 +1,29 @@
+- identité et ce machin
+
+	- entra id
+	- azure a dds
+	- auth
+
+		- MFA et SSO et machin (petite définition)
+
+	- acces conditionnel
+
+- locataire azure
+
+	- tenant azure etc
+	- isolé des autres
+
+- diff entre auth et autorisation (authz et auth?)
+- azure MFA
+- b2b , b2c expliquer simplement
+- accès conditionnel - important
+
+	- a quoi ca peut servir
+
+- RBAC azure
+- zero thrust
+- défense en profondeur
+- microsoft defender
 # Locataire Azure
 
 Contient:
