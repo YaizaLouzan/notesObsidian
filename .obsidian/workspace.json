@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 9 - Outils de gestion et supervision Azure.md",
+                "file": "Chapitre 4 - Service de calculs réseau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 9 - Outils de gestion et supervision Azure"
+              "title": "Chapitre 4 - Service de calculs réseau"
             }
           },
           {
@@ -333,8 +333,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7f278207bd1b15b6",
+  "active": "d30ad97e14bfa1b3",
   "lastOpenFiles": [
+    "Chapitre 3 - Composants d'architecture Azure.md",
+    "Chapitre 9 - Outils de gestion et supervision Azure.md",
     "Chapitre 9 - Outils de gestion et de supervision Azure.md",
     "Chapitre 2 - services et modèles cloud.md",
     "Chapitre 8 - Gouvernance et conformité.md",
@@ -345,11 +347,9 @@
     "Chapitre 4 - Service de calculs réseau.md",
     "Pasted image 20250309160817.png",
     "Chapitre 1 - Introduction au cloud.md",
-    "Chapitre 3 - Composants d'architecture Azure.md",
     "Pasted image 20250309154736.png",
     "Pasted image 20250309153510.png",
     "Pasted image 20250309151606.png",
-    "Chapitre 9 - Outils de gestion et supervision Azure.md",
     "Pasted image 20250221074038.png",
     "Pasted image 20250221073142.png",
     "Pasted image 20250221073123.png",

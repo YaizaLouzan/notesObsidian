@@ -8,7 +8,7 @@
 Grâce à **Azure Arc**, tu peux **gérer toutes ces ressources comme si elles étaient dans Azure**, **même si elles ne le sont pas** !
 
 # Azure Ressource Manager (ARM)
-Service de déploiement et de gestion d'Azure. Il permet de déployer, gérer et surveiller les ressources Azure de manière cohérente.
+Service de déploiement et de gestion d'Azure. Il **permet de déployer, gérer et surveiller les ressources Azure** de manière cohérente.
 
 - Permet de créer, configurer, gérer et supprimer des ressources et groupes de ressources
 - Permet d'organiser les ressources
