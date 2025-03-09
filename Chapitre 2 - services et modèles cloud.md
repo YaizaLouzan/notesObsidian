@@ -16,7 +16,7 @@
 - opEX
 
 
-# Modèles de cloud
+# Services cloud
 
 ## IaaS
 -> Infrastructure As A Service
