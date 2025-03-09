@@ -18,12 +18,12 @@ La calculatrice de prix est un outil qui permet d’estimer le coût des produit
 
 ## Calculatrice de coût total de possession
 (Total Cost Ownership)
+La calculatrice TCO est un outil permettant d’estimer les économies que vous pouvez réaliser en migrant vers Azure. Un rapport compare les coûts des infrastructures locales avec les coûts d’utilisation des produits et des services cloud Azure.
 
 
+# Azure Cost Management
+# Azure Marketplace
 
-- calculatrice des prix
-
-- tco y compris
 
 - azure cost management
 - azure marketplace
