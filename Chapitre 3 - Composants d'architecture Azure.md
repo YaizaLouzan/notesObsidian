@@ -4,3 +4,8 @@ Composants tels que le stockage, les machines virtuelles et les réseaux disponi
 ![[Pasted image 20250309153510.png]]
 
 # Groupe de ressource
+C'est un conteneur qui administre et regroupe des ressources Azure en une seule unité, chaque ressource appartient à un seul groupe de ressources. Elles peuvent être situées dans différentes régions et être déplacées entre groupes.
+
+Une application peut utiliser plusieurs groupes de ressources.
+
+Sécurisation via le contrôle  basé sur les rôles RBAC (Role-Based Access Control ): nous verrons cela aux chapitre sécurité
