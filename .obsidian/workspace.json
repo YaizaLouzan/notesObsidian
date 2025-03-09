@@ -53,12 +53,14 @@
             "id": "7ace878e130a8728",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Chapitre 4 - Service de calculs réseau.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Chapitre 4 - Service de calculs réseau"
             }
           },
           {
