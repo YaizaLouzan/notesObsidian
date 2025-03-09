@@ -87,8 +87,7 @@ Aide à résoudre les problèmes de latence ou de connectivité en traitant les 
 ## Azure Data Box
 Permet d'envoyer des téraoctets de **données locales** vers Azure
 ## Azure Elastic SAN
-ermet de sécuriser et de contrôler le niveau d'accès à vos volumes
-
+Permet de sécuriser et de contrôler le niveau d'accès à vos volumes
 ## Stockage de conteneur Azure
 
 ## Azure Storage Actions
