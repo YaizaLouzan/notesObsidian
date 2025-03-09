@@ -83,4 +83,10 @@ Azure File Sync
 
 Azure Stack Edge
 
-az
+Azure Data Box
+
+Azure Elastic SAN
+
+Stockage de conteneur Azure
+
+Azure Storage Actions
