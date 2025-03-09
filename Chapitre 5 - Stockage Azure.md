@@ -89,5 +89,5 @@ Permet d'envoyer des téraoctets de **données locales** vers Azure
 ## Azure Elastic SAN
 Permet de sécuriser et de contrôler le niveau d'accès à vos volumes
 ## Stockage de conteneur Azure
-
+prend en charge trois types d'objets blob : **Les objets blob de blocs stockent du texte et des données binaires**. Ils sont composés de blocs de données qui peuvent être gérés individuellement. Les objets blob de blocs peuvent stocker jusqu'à environ 190,7 Tio.
 ## Azure Storage Actions
