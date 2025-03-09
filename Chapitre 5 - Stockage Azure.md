@@ -136,3 +136,9 @@ Outil en ligne de commande pour faciliter le transfert de données vers et depui
 
 Permet de copier des fichiers et des dossiers entre votre machine locale (votre ordinateur) et le stockage Azure. Vous tapez des commandes dans une fenêtre de terminal pour indiquer les fichiers à transférer, leur destination et d'autres paramètres.
 
+## Azure Storage Explorer
+Programme que vous pouvez installer sur votre ordinateur pour vous aider à gérer et à interagir avec les fichiers et données que vous stockez dans le cloud d'Azure.
+
+Imaginez que vous avez beaucoup de fichiers importants stockés dans le cloud, et vous voulez les gérer facilement depuis votre ordinateur sans avoir à utiliser une interface web complexe. Azure Storage Explorer rend cela possible en vous offrant une interface graphique simple à utiliser. C'est comme un explorateur de fichiers sur votre ordinateur, mais pour les données stockées dans Azure.
+
+## Azure File Sync
