@@ -15,6 +15,12 @@ La calculatrice de prix est un outil qui permet d’estimer le coût des produit
 - Options de support
 - Programmes et offres
 - Tarification de Dev/Test Azure
+
+## Calculatrice de coût total de possession
+(Total Cost Ownership)
+
+
+
 - calculatrice des prix
 
 - tco y compris
