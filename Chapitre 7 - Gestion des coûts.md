@@ -36,6 +36,10 @@ La calculatrice TCO est un **outil permettant d’estimer les économies que vou
 avantages et des
 
 # Tags
-Ce sont des étiquettes pour mieux ordonner et gérer un projet.
-- pr dire ce que c'est , mieux ordonner et gérer un projet
+Ce sont des étiquettes pour mieux organiser et gérer un projet.
+
+- Fournissent des informations supplémentaires, ou métadonnées, pour vos ressources Azure
+- Organisent logiquement les ressources dans une taxonomie
+- Se composent d’une paire **nom-valeur**
+- Sont très utiles pour regrouper les informations de facturation
 
