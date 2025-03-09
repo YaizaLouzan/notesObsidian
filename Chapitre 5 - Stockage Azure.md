@@ -8,4 +8,12 @@ Principales caractéristiques:
 - Les données stockées dans ce compte sont sécurisées, hautement disponibles, durables et évolutives
 
 
-#
+# Redondance au stockage
+Pour garantir la disponibilité des données, Azure offre plusieurs options de redondance :
+
+- **LRS (Locally Redundant Storage)** : Réplication dans un seul centre de données, pour des besoins locaux.
+    
+- **GRS (Geo-Redundant Storage)** : Réplication dans un autre centre de données situé dans une autre région géographique pour plus de sécurité.
+    
+- **ZRS (Zone-Redundant Storage)** : Réplication dans plusieurs zones d'une même région Azure pour une disponibilité élevée.
+
