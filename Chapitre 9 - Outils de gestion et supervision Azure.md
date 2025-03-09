@@ -61,3 +61,9 @@ Pour les ressources critiques, vous pouvez appliquer un verrou explicite qui emp
 Azure Resource Manager enregistre toutes les actions des utilisateurs afin que vous puissiez les contrôler
 
 Pour chaque action, le journal d’audit contient des informations sur l’utilisateur, l’heure, les événements et le statut
+
+# Outils de supervision Azure
+
+## Azure Advisor
+
+Analyse les ressources Azure 
