@@ -60,17 +60,17 @@ Avantages:
 ## Authentification
 ### Azure Multi-Factor Authentification
 
-Méthode de sécurité renforcée qui exige au moins deux éléments d'authentification avant d'accorder un accès.
+Azure MFA est une méthode de sécurité renforcée qui exige au moins deux éléments d'authentification avant d'accorder un accès.
 
-### Trois catégories de facteurs utilisées dans la MFA
+#### Trois catégories de facteurs utilisées dans la MFA
 
 - Quelque chose que vous connaissez :
 
-Il s'agit généralement d'un mot de passe, d'un code PIN, ou d'une réponse à une question de sécurité. Ce facteur est la première ligne de défense, mais peut être vulnérable en cas de vol ou de piratage.
+Il s'agit généralement d'un **mot de passe, d'un code PIN, ou d'une réponse à une question de sécurité**. Ce facteur est la première ligne de défense, mais peut être vulnérable en cas de vol ou de piratage.
 
 - Quelque chose que vous possédez :
 
-Cela inclut des objets physiques ou numériques que vous avez en votre possession, comme un smartphone qui reçoit une notification via une application mobile (ex : Microsoft Authenticator), ou un appareil générateur de jetons (comme un token physique ou une clé de sécurité).
+Cela inclut des **objets physiques ou numériques que vous avez en votre possession**, comme un **smartphone qui reçoit une notification** via une application mobile (ex : Microsoft Authenticator), ou un appareil générateur de jetons (comme un token physique ou une clé de sécurité).
 
 Ce facteur ajoute une barrière supplémentaire en s'assurant que seul l'utilisateur ayant l'objet ou l'appareil peut se connecter.
 
