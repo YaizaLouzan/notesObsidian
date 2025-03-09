@@ -28,7 +28,9 @@ La calculatrice TCO est un **outil permettant d’estimer les économies que vou
 - Recommandations en matière de coûts
 
 # Azure Marketplace
-- tester et acheter
+Permet aux clients de trouver, de tester, d’acheter et de configurer des applications et des services, auprès des principaux fournisseurs de services, tous certifiés pour fonctionner sur Azure
+  
+Les applications peuvent être testées gratuitement avant l’achat
 # Stratégies de migration
 
 ## Lift and Shift
