@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 7 - Gestion des coûts.md",
+                "file": "Chapitre 8 - Gouvernance et conformité.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 7 - Gestion des coûts"
+              "title": "Chapitre 8 - Gouvernance et conformité"
             }
           },
           {
@@ -349,6 +349,7 @@
   },
   "active": "7ace878e130a8728",
   "lastOpenFiles": [
+    "Chapitre 7 - Gestion des coûts.md",
     "Chapitre 6 - Sécurité.md",
     "Chapitre 4 - Service de calculs réseau.md",
     "Chapitre 1 - Introduction au cloud.md",
@@ -356,7 +357,6 @@
     "Chapitre 3 - Composants d'architecture Azure.md",
     "Chapitre 9 - Outils de gestion et supervision Azure.md",
     "Chapitre 8 - Gouvernance et conformité.md",
-    "Chapitre 7 - Gestion des coûts.md",
     "Chapitre 5 - Stockage Azure.md",
     "Chapitre 9 - Outils de gestion et de supervision Azure.md",
     "Pasted image 20250309172046.png",
