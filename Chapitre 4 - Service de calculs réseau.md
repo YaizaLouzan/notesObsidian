@@ -16,12 +16,17 @@ Exemples : Amazon ECS, Google Kubernetes Engine.
 - Machines Virtuelles
 Exemples : Amazon EC2, Microsoft Azure VMs, Google Compute Engine.
 
+
+| Option de calcul                 | Modèle de cloud                    | Explication                                                                                                                                                |
+| -------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🖥 **Machines Virtuelles (VMs)** | IaaS (Infrastructure as a Service) | Le fournisseur cloud gère le matériel et la virtualisation, mais l’utilisateur gère le système d’exploitation et les applications. Ex : AWS EC2, Azure VM. |
+
 |**Option de calcul**|**Modèle de cloud**|**Explication**|
 |---|---|---|
 
-|   |   |   |
-|---|---|---|
-|🖥 **Machines Virtuelles (VMs)**|IaaS (Infrastructure as a Service)|Le fournisseur cloud gère le matériel et la virtualisation, mais l’utilisateur gère le système d’exploitation et les applications. Ex : AWS EC2, Azure VM.|
+|                                  |                                    |                                                                                                                                                            |
+| -------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 |   |   |   |
 |---|---|---|
