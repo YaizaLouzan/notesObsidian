@@ -6,7 +6,13 @@ Le développeur ne gère que le code de l’application, le fournisseur provisio
 Vous n'avez pas à vous soucier des serveurs, des machines ou de la gestion des ressources, tout est automatisé
 
 - Bare Metal
-Serveurs physiques dédiés, offrant des performances maximales tout en bénéficiant de la flexibilité du cloud. Exemples : AWS Bare Metal Instances, IBM Cloud Bare Metal Servers
+Serveurs physiques dédiés, offrant des performances maximales tout en bénéficiant de la flexibilité du cloud. **Exemples** : AWS Bare Metal Instances, IBM Cloud Bare Metal Servers
+
 - Conteneurs
+Des unités légères qui encapsulent les applications et leurs dépendances pour un déploiement rapide et une grande portabilité.
+
+Exemples : Amazon ECS, Google Kubernetes Engine.
+
 - Machines Virtuelles
+Exemples : Amazon EC2, Microsoft Azure VMs, Google Compute Engine.
 
