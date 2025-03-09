@@ -123,3 +123,7 @@ Exemples d'utilisation:
 - Migrez des données hors d’Azure pour des besoins de conformité ou de réglementation.
 - Migrez des données vers Azure à partir de sites distants avec une connectivité limitée ou sans connectivité
 
+# Azure Migrate
+conçu pour aider les entreprises à planifier, évaluer, et migrer leurs infrastructures et applications locales vers le cloud Azure. Il fournit un ensemble d'outils intégrés pour évaluer la compatibilité des ressources sur site, estimer les coûts de la migration, et effectuer la migration en elle-même.
+
+- Migra
