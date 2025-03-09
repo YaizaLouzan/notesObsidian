@@ -90,14 +90,7 @@ Vue axée uniquement sur les services et régions que vous utilisez
 Si un service rencontre un problème dans une région que vous n’utilisez pas, il n’apparaîtra pas ici
 
 ## Azure Monitor
-Plateforme permettant de collecter des données sur vos ressources, d’analyser ces données, de visualiser les informations. Permet de superviser les ressources Azure, vos ressources locales et même les ressources multiclouds telles que les machines virtuelles hébergées avec un autre fournisseur de cloud.
-
-- Application Insights
-- Log Analytics
-- Alertes intelligentes
-- Actions d’automatisation
-- Tableaux de bord personnalisés
-
+Plateforme permettant de collecter des données sur vos ressources, d’analyser ces données, de visualiser les informations.
 # Azure Cloud Shell
 Terminal basé sur un navigateur qui fournit une expérience d'interpréteur de commandes authentifiée et préconfigurée pour gérer les ressources Azure
 # Azure CLI
