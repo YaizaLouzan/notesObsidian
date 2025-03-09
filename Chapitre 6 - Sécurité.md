@@ -131,4 +131,12 @@ Ce facteur fait référence à une c**aractéristique biométrique unique à l'u
 C'est une approche de sécurité qui suppose que les menaces peuvent exister à l'intérieur du réseau ainsi qu'à l'extérieur. Au lieu de faire confiance automatiquement à quelqu'un parce qu'il se trouve à l'intérieur du périmètre sécurisé de l'entreprise, cette approche vérifie systématiquement chaque demande d'accès, peu importe d'où elle provient.
 
 # Défense en profondeur
-approche de sécurité qui utilise plusieurs couches de protection pour réduire les risques. Chaque couche de sécurité joue un rôle spécifique, et l'idée est que même si un attaquant parvient à contourner une couche, d’autres couches de défense continueront de protéger les systèmes.
+Approche de sécurité qui utilise plusieurs couches de protection pour réduire les risques. Chaque couche de sécurité joue un rôle spécifique, et l'idée est que même si un attaquant parvient à contourner une couche, d’autres couches de défense continueront de protéger les systèmes.
+
+1. Sécurité physique
+2. Identité et accès
+3. Périmètre
+4. Réseau
+5. Calcul
+6. Application
+7. Données
