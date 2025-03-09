@@ -41,6 +41,7 @@ Fonctionnalités:
 
 - Authentification des employés
 - **Authentification unique (SSO)**
+	- Permet aux utilisateurs de se connecter une seule fois pour accéder à toutes les applications et services autorisés, sans avoir à se reconnecter pour chaque application.
 - Gestion des applications
 - Services B2B (Buissiness to buissiness)
 - Services B2C (buissiness to customer)
