@@ -36,10 +36,16 @@ Les applications peuvent être testées gratuitement avant l’achat
 ## Lift and Shift
 consiste à déplacer une application ou une infrastructure dans le cloud sans en modifier l'architecture. Cela implique de migrer l'application telle qu'elle, avec son architecture existante, vers une infrastructure cloud. Cette approche est la plus rapide et la moins coûteuse à court terme.
 
-- Avantages** : Rapide à mettre en œuvre et peu coûteux initialement, car il n'y a pas besoin de réarchitecturer l'application.
+- Avantages: Rapide à mettre en œuvre et peu coûteux initialement, car il n'y a pas besoin de réarchitecturer l'application.
     
-- **Inconvénients** : Elle ne tire pas parti des fonctionnalités avancées du cloud (scalabilité automatique, optimisation des coûts) et peut parfois entraîner des coûts d'exploitation plus élevés à long terme.
+- Inconvénients : Elle ne tire pas parti des fonctionnalités avancées du cloud (scalabilité automatique, optimisation des coûts) et peut parfois entraîner des coûts d'exploitation plus élevés à long terme.
 
+## Lift and Reshape
+Implique de réorganiser et d'adapter l'application pour qu'elle utilise des services cloud natifs lors de la migration. Par exemple, en remplaçant les serveurs physiques par des conteneurs ou des services serverless. Bien que cette approche demande plus de temps et d'efforts, elle permet de maximiser les bénéfices du cloud à long terme.
+
+- Avantages : Permet de tirer parti des services natifs du cloud, de réduire les coûts d'exploitation et d'améliorer les performances à long terme.
+    
+- **Inconvénients** : Nécessite plus de temps, de ressources et de compétences pour adapter l'application et réarchitecturer certains composants.
 # Tags
 Ce sont des étiquettes pour mieux organiser et gérer un projet.
 
