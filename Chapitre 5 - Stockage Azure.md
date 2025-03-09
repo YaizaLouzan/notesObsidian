@@ -131,6 +131,8 @@ conçu pour aider les entreprises à planifier, évaluer, et migrer leurs infras
 - Migration d'applications
 
 # Outils de gestion de fichiers
+![[Pasted image 20250309172046.png]]
+
 ## AzCopy
 Outil en ligne de commande pour faciliter le transfert de données vers et depuis le stockage Azure.
 
@@ -142,3 +144,5 @@ Programme que vous pouvez installer sur votre ordinateur pour vous aider à gér
 Imaginez que vous avez beaucoup de fichiers importants stockés dans le cloud, et vous voulez les gérer facilement depuis votre ordinateur sans avoir à utiliser une interface web complexe. Azure Storage Explorer rend cela possible en vous offrant une interface graphique simple à utiliser. C'est comme un explorateur de fichiers sur votre ordinateur, mais pour les données stockées dans Azure.
 
 ## Azure File Sync
+Outil qui aide à garder les fichiers sur vos serveurs locaux synchronisés avec Azure Files, un service de stockage de fichiers dans le cloud. En d'autres termes, il permet de maintenir une copie locale des fichiers stockés dans le cloud tout en les gardant à jour entre plusieurs emplacements.
+
