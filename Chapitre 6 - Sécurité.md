@@ -8,11 +8,6 @@
 
 	- acces conditionnel
 
-- locataire azure
-
-	- tenant azure etc
-	- isolé des autres
-
 - diff entre auth et autorisation (authz et auth?)
 - azure MFA
 - b2b , b2c expliquer simplement
@@ -24,14 +19,16 @@
 - zero thrust
 - défense en profondeur
 - microsoft defender
+
+# Identité
 # Locataire Azure
 Un **locataire Azure** est une **instance dédiée et approuvée d'Azure Active Directory (Azure AD)**, automatiquement créée lorsque votre organisation souscrit à un service cloud Microsoft. Ce locataire représente une seule organisation et sert de base pour la gestion des identités et des accès dans un environnement cloud sécurisé.
 
 Contient:
-
 - Annuaire Azure AD dédié
 - Gestion des identités et des accès
-- Isolations des ressources
+- **Isolations des ressources**
+	- Le locataire Azure est isolé
 - Création automatique
 
 **le terme Tenant désigne la bulle (le nuage) dans laquelle vos données vont être stockées**.
