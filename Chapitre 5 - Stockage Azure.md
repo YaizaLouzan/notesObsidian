@@ -32,15 +32,14 @@ Explication des **"9" en redondance** :
 Le nombre de 9 correspondent à un pourcentage où le serveur est fonctionnel.
 
 EXEMPLE 
-S'il y a 5 neufs
-On parle de 99,999% car ça fait 5 neuf en tout
+S'il y a 5 neufs, on parle de 99,999% car ça fait 5 neuf en tout
 
-EXEMPLE DE CALCUL
+CALCUL
 
 5 neuf correspondent à 99,999% (temps serveur fonctionnel)
 
-       0.001%   (temps serveur non fonctionnel)
-
+	0.001%   (temps serveur non fonctionnel)
+car 100% - 99,999% = 0,001%
 Pour savoir combien de temps un serveur peut xxxxx
 
 365 [jours] * 24 [heures] * 60 [minutes] = temps en minutes -> * (0.001/100) = 5.256 minutes
