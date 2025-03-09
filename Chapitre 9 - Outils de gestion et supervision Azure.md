@@ -101,3 +101,4 @@ Plateforme permettant de collecter des données sur vos ressources, d’analyser
 # Azure Cloud Shell
 Terminal basé sur un navigateur qui fournit une expérience d'interpréteur de commandes authentifiée et préconfigurée pour gérer les ressources Azure
 # Azure CLI
+Collecte les données de télémétrie par défaut. Microsoft agrège les données collectées pour identifier les modèles d'utilisation, identifier les problèmes courants et améliorer l'expérience Azure CLI.
