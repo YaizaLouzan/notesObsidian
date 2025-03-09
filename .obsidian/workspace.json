@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 9 - Outils de gestion et supervision Azure.md",
+                "file": "Chapitre 8 - Gouvernance et conformité.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 9 - Outils de gestion et supervision Azure"
+              "title": "Chapitre 8 - Gouvernance et conformité"
             }
           },
           {
@@ -348,10 +348,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9a75360c591db07c",
+  "active": "7ace878e130a8728",
   "lastOpenFiles": [
-    "Chapitre 8 - Gouvernance et conformité.md",
     "Chapitre 9 - Outils de gestion et supervision Azure.md",
+    "Chapitre 8 - Gouvernance et conformité.md",
     "Chapitre 7 - Gestion des coûts.md",
     "Chapitre 6 - Sécurité.md",
     "Chapitre 4 - Service de calculs réseau.md",
