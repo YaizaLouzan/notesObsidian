@@ -1,0 +1,1 @@
+Capacité de traiter des données et d'exécuter des applications
