@@ -45,7 +45,7 @@ Implique de réorganiser et d'adapter l'application pour qu'elle utilise des ser
 
 - Avantages : Permet de tirer parti des services natifs du cloud, de réduire les coûts d'exploitation et d'améliorer les performances à long terme.
     
-- **Inconvénients** : Nécessite plus de temps, de ressources et de compétences pour adapter l'application et réarchitecturer certains composants.
+- Inconvénients : Nécessite plus de temps, de ressources et de compétences pour adapter l'application et réarchitecturer certains composants.
 # Tags
 Ce sont des étiquettes pour mieux organiser et gérer un projet.
 
