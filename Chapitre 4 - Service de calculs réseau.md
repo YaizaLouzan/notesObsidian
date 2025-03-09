@@ -17,10 +17,10 @@ Exemples : Amazon ECS, Google Kubernetes Engine.
 Exemples : Amazon EC2, Microsoft Azure VMs, Google Compute Engine.
 
 
-| Option de calcul                             | Modèle de cloud                    | Explication                                                                                                                                                              |
-| -------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🖥 **Machines Virtuelles (VMs)**             | IaaS (Infrastructure as a Service) | Le fournisseur cloud gère le matériel et la virtualisation, mais l’utilisateur gère le système d’exploitation et les applications. Ex : AWS EC2, Azure VM.               |
-| 📦 **Conteneurs (Docker, Kubernetes, etc.)** | IaaS / PaaS                        | Sur IaaS, l’utilisateur gère l’infrastructure et l’orchestration (ex: Kubernetes sur AWS). Sur PaaS, le fournisseur simplifie la gestion (ex: Google Kubernetes Engine). |
-| 🔧 **Bare Metal**                            | IaaS                               | Serveur physique dédié sans virtualisation. Utile pour des charges lourdes comme les bases de données critiques.                                                         |
-| Serverless                                   |                                    |                                                                                                                                                                          |
+| Option de calcul                             | Modèle de cloud                    | Explication                                                                                                                                                                             |
+| -------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🖥 **Machines Virtuelles (VMs)**             | IaaS (Infrastructure as a Service) | Le fournisseur cloud gère le matériel et la virtualisation, mais l’utilisateur gère le système d’exploitation et les applications. Ex : AWS EC2, Azure VM.                              |
+| 📦 **Conteneurs (Docker, Kubernetes, etc.)** | IaaS / PaaS                        | Sur IaaS, l’utilisateur gère l’infrastructure et l’orchestration (ex: Kubernetes sur AWS). Sur PaaS, le fournisseur simplifie la gestion (ex: Google Kubernetes Engine).                |
+| 🔧 **Bare Metal**                            | IaaS                               | Serveur physique dédié sans virtualisation. Utile pour des charges lourdes comme les bases de données critiques.                                                                        |
+| Serverless                                   | Faas / PaaS                        | - Le fournisseur cloud gère **entièrement** l’infrastructure (serveurs, mise à l’échelle, maintenance).<br>- L’utilisateur ne gère que **le code** et paye uniquement pour l’exécution. |
 
