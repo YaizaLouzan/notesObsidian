@@ -61,7 +61,7 @@ Avantages:
 
 Méthode de sécurité renforcée qui exige au moins deux éléments d'authentification avant d'accorder un accès.
 
-TROIS CATEGORIES DE FACTEURS UTILISES DANS LA MFA
+### Trois catégories de facteurs utilisées dans la MFA
 
 - Quelque chose que vous connaissez :
 
@@ -77,7 +77,7 @@ Ce facteur ajoute une barrière supplémentaire en s'assurant que seul l'utilisa
 
 Ce facteur fait référence à une caractéristique biométrique unique à l'utilisateur, telle qu'une empreinte digitale, un scan du visage ou de l'iris. De nombreux appareils mobiles modernes intègrent cette technologie pour une authentification plus rapide et sécurisée.
 
-External Identities - accès et sécurité azure
+# External Identities - accès et sécurité azure
 
 MODELE B2B
 
