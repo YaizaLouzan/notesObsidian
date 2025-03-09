@@ -44,3 +44,6 @@ Pour savoir combien de temps un serveur peut rester indisponible.
 
 365 [jours] * 24 [heures] * 60 [minutes] = 525 600 minutes 
 -> 525 600 * (0.001/100) = 5.256 minutes
+
+# Services de stockage
+## Conteneur de stockage - blob
