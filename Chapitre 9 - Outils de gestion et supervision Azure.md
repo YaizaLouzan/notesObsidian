@@ -1,14 +1,11 @@
 # Azure Arc
-## Principales fonctionnalités
-- Gestion de serveurs hybrides
-- Gestion des clusters Kubernetes
-- Services de données Azure
-- Gouvernance et conformité
-- Automatisation
+**Azure Arc est une technologie qui permet d’étendre Azure partout.**
 
-## C'est quoi ?
-Plateforme de gestion unifiée pour serveurs, Kubernetes et services de données.
-Étend les capacités d'azure aux environnements multi-cloud, sur site et é périphérie
+- Dans ton **datacenter privé** (serveurs physiques ou machines virtuelles)
+- Dans **d’autres clouds** (AWS, Google Cloud)
+- Dans des **clusters Kubernetes** ou des bases de données SQL ailleurs
+
+Grâce à **Azure Arc**, tu peux **gérer toutes ces ressources comme si elles étaient dans Azure**, **même si elles ne le sont pas** !
 
 # Azure Ressource Manager (ARM)
 Service de déploiement et de gestion d'Azure. Il permet de déployer, gérer et surveiller les ressources Azure de manière cohérente.
