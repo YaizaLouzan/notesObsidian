@@ -70,4 +70,4 @@ Service de stockage dans le cloud qui permet de créer et de gérer des **partag
 - Intégration avec Azure AD ou AD DS
 - Résilience et disponibilité
 - Snapshots
-- S
+- Sauvegardes et restaurations
