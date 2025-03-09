@@ -91,3 +91,6 @@ Permet de sécuriser et de contrôler le niveau d'accès à vos volumes
 ## Stockage de conteneur Azure
 prend en charge trois types d'objets blob : **Les objets blob de blocs stockent du texte et des données binaires**. Ils sont composés de blocs de données qui peuvent être gérés individuellement. Les objets blob de blocs peuvent stocker jusqu'à environ 190,7 Tio.
 ## Azure Storage Actions
+Traite des objets blob, de table et de file d'attente
+
+##
