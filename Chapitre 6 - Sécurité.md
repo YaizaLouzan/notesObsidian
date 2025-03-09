@@ -82,7 +82,7 @@ Avantages:
 # Accès conditionnel
 Les contrôles d'accès conditionnel dans Azure permettent de sécuriser l'accès aux ressources en appliquant des conditions spécifiques, assurant ainsi une protection adaptée tout en offrant une expérience utilisateur fluide.
 
-## Principales Conditions :
+## Principales Conditions
 
 1. **Emplacement :** Restriction d'accès selon la géolocalisation de l'utilisateur.
 2. **Appareil :** Vérification de la conformité de l'appareil aux politiques de sécurité.
