@@ -29,16 +29,15 @@ Le terme "9" se réfère au niveau de **disponibilité** ou de **durabilité** g
 
 Explication des **"9" en redondance** :
 
-- **99,9%** (trois 9) : Cela signifie une disponibilité de **99,9%**, ce qui correspond à environ **8,77 heures** d’indisponibilité maximale autorisée par an.
 Le nombre de 9 correspondent à un pourcentage où le serveur est fonctionnel.
 
-EXEMPLE : **S'il y a 5 neufs**
-
+EXEMPLE 
+S'il y a 5 neufs
 On parle de 99,999% car ça fait 5 neuf en tout
 
 EXEMPLE DE CALCUL
 
-5 : 9 correspondent à 99,999% (temps serveur fonctionnel)
+5 neuf correspondent à 99,999% (temps serveur fonctionnel)
 
        0.001%   (temps serveur non fonctionnel)
 
