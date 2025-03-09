@@ -71,3 +71,6 @@ Service de stockage dans le cloud qui permet de créer et de gérer des **partag
 - Résilience et disponibilité
 - Snapshots
 - Sauvegardes et restaurations
+
+## Stockage de table
+Service qui stocke des données **NoSQL structurées** dans le cloud, fournissant un magasin de clés/attributs avec une conception sans schéma.
