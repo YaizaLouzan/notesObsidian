@@ -131,3 +131,8 @@ conçu pour aider les entreprises à planifier, évaluer, et migrer leurs infras
 - Migration d'applications
 
 # Outils de gestion de fichiers
+## AzCopy
+Outil en ligne de commande pour faciliter le transfert de données vers et depuis le stockage Azure.
+
+Permet de copier des fichiers et des dossiers entre votre machine locale (votre ordinateur) et le stockage Azure. Vous tapez des commandes dans une fenêtre de terminal pour indiquer les fichiers à transférer, leur destination et d'autres paramètres.
+
