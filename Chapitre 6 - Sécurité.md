@@ -126,3 +126,8 @@ Ce facteur fait référence à une c**aractéristique biométrique unique à l'u
 ### Autorisation - AuthZ
 - Détermine le niveau d’accès d’une personne authentifiée ou d’un service
 - Définit les données auxquelles ils peuvent accéder et ce qu’ils peuvent en faire
+
+# Confiare zéro - zero thrust
+C'est une approche de sécurité qui suppose que les menaces peuvent exister à l'intérieur du réseau ainsi qu'à l'extérieur. Au lieu de faire confiance automatiquement à quelqu'un parce qu'il se trouve à l'intérieur du périmètre sécurisé de l'entreprise, cette approche vérifie systématiquement chaque demande d'accès, peu importe d'où elle provient.
+
+**
