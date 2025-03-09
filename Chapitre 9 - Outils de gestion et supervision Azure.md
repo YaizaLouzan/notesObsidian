@@ -26,5 +26,4 @@ Les modèles ARM (Azure Resource Manager) sont des fichiers JSON (JavaScript Obj
 • Résultats reproductibles
 • Orchestration
 • Fichiers modulaires
-• Validation intégrée
-Code exportable
+• Validation intégréeCode exportable
