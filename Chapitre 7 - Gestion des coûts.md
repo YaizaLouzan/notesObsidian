@@ -34,8 +34,11 @@ Les applications peuvent être testées gratuitement avant l’achat
 # Stratégies de migration
 
 ## Lift and Shift
+consiste à déplacer une application ou une infrastructure dans le cloud sans en modifier l'architecture. Cela implique de migrer l'application telle qu'elle, avec son architecture existante, vers une infrastructure cloud. Cette approche est la plus rapide et la moins coûteuse à court terme.
 
-avantages et des
+- Avantages** : Rapide à mettre en œuvre et peu coûteux initialement, car il n'y a pas besoin de réarchitecturer l'application.
+    
+- **Inconvénients** : Elle ne tire pas parti des fonctionnalités avancées du cloud (scalabilité automatique, optimisation des coûts) et peut parfois entraîner des coûts d'exploitation plus élevés à long terme.
 
 # Tags
 Ce sont des étiquettes pour mieux organiser et gérer un projet.
