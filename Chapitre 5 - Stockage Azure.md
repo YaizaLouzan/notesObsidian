@@ -76,7 +76,7 @@ Service de stockage dans le cloud qui permet de créer et de gérer des **partag
 Service qui stocke des données **NoSQL structurées** dans le cloud, fournissant un magasin de clés/attributs avec une conception sans schéma.
 
 ## Azure data Lake
-
+Grands volumes de données dans leur forme originale
 
 ## Azure NetApp Files
 
