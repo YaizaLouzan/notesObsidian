@@ -126,4 +126,8 @@ Exemples d'utilisation:
 # Azure Migrate
 conçu pour aider les entreprises à planifier, évaluer, et migrer leurs infrastructures et applications locales vers le cloud Azure. Il fournit un ensemble d'outils intégrés pour évaluer la compatibilité des ressources sur site, estimer les coûts de la migration, et effectuer la migration en elle-même.
 
-- Migra
+- Migration de VM
+- Migration de BDD
+- Migration d'applications
+
+# Outils de gestion de fichiers
