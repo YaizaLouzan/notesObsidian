@@ -102,7 +102,7 @@ Azure Storage propose différents niveaux d'accès pour stocker des objets blob 
     
 - **Niveau d’accès archive** : adapté pour *stocker des données rarement consultées* et stockées pendant au moins *180 jours*, avec une latence flexible (par exemple, des sauvegardes à long terme)
 # Azure Data Box
-Permet de transférer de grandes quantités de données vers Azure de manière sécurisée et efficace, surtout lorsque les données sont trop volumineuses pour être transférées par internet en raison de limitations de bande passante ou de temps. Azure Data Box fournit des appareils physiques (boîtes) pour transporter vos données. Ces dispositifs sont sécurisés et conçus pour la migration de grandes quantités de données vers le cloud.
+Permet de transférer de grandes quantités de données vers Azure de manière sécurisée et efficace, surtout lorsque les données sont trop volumineuses pour être transférées par internet en raison de limitations de bande passante ou de temps. Azure Data Box fournit des appareils physiques (*boîtes*) pour transporter vos données. Ces dispositifs sont sécurisés et conçus pour la migration de grandes quantités de données vers le cloud.
 
 Types de boîtes disponibles:
 
@@ -117,12 +117,9 @@ Une fois les données chargées sur le Data Box et renvoyées à Microsoft, les 
 
 Exemples d'utilisation:
 
-- Vous pouvez stocker jusqu’à 80 téraoctets de données
-    
+- Vous pouvez stocker jusqu’à 80 téraoctets de données    
 - Déplacez vos sauvegardes de récupération d’urgence vers Azure.
-    
 - Lors de vos déplacements, vous pouvez protégez vos données dans un boîtier robuste.
-    
 - Migrez des données hors d’Azure pour des besoins de conformité ou de réglementation.
-    
 - Migrez des données vers Azure à partir de sites distants avec une connectivité limitée ou sans connectivité
+
