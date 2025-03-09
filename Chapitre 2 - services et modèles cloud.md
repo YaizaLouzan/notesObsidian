@@ -76,7 +76,6 @@ Exemples :
 - VMWare Cloud 
 - OpenStack
 
-
 ✅ **Avantages** :
 
 - Sécurité et confidentialité accrues (environnement dédié).
@@ -113,30 +112,18 @@ Exemples :
 - Applications critiques sur cloud privé
 - Scalabilité via cloud public.
 
+✅ **Avantages** :
+
+- Équilibre entre flexibilité et sécurité.
+- Possibilité de garder des données sensibles en privé et le reste en public.
+- Optimisation des coûts en combinant les deux modèles.
+
+❌ **Inconvénients** :
+
+- Complexité de gestion et d’intégration.
+- Nécessite une bonne coordination entre les différents environnements.
 # Cloud on-permise
 C'est une infrastructure hébergée et gérée **localement** dans les locaux de l'entreprise. Elle **adopte des principes du cloud** (virtualisation, automatisation, gestion des ressources) et offre un **contrôle total sur les données** et systèmes, tout en permettant certains avantages du cloud, tels que l'élasticité et l'optimisation des ressources. Convient aux organisations ayant des exigences strictes en matière de sécurité et de conformité.
-
-**Résumé rapide** :
-
-- **On-Premise** = Serveurs **chez vous**, gestion 100% interne.
-- **Cloud Privé** = Serveurs **dédiés pour vous**, mais hébergés ailleurs et/ou gérés par un prestataire.
-
-
-
-
-### 🌍 **Cloud Public (ex : AWS, Azure, Google Cloud)**
-
-
-
----
-
-### 🏢 **Cloud Privé (ex : Serveurs dédiés chez OVH, VMware Private Cloud)**
-
-
-
----
-
-### 🏠 **Cloud On-Premise (ex : un data center interne gérant un cloud privé)**
 
 ✅ **Avantages** :
 
@@ -150,26 +137,9 @@ C'est une infrastructure hébergée et gérée **localement** dans les locaux de
 - Besoin d’une équipe IT compétente.
 - Moins flexible pour faire évoluer rapidement les ressources.
 
----
+**Résumé rapide** :
 
-### 🔄 **Cloud Hybride (mix entre cloud public et privé)**
+- **On-Premise** = Serveurs **chez vous**, gestion 100% interne.
+- **Cloud Privé** = Serveurs **dédiés pour vous**, mais hébergés ailleurs et/ou gérés par un prestataire.
 
-✅ **Avantages** :
-
-- Équilibre entre flexibilité et sécurité.
-- Possibilité de garder des données sensibles en privé et le reste en public.
-- Optimisation des coûts en combinant les deux modèles.
-
-❌ **Inconvénients** :
-
-- Complexité de gestion et d’intégration.
-- Nécessite une bonne coordination entre les différents environnements.
-
-💡 **Conclusion** :
-
-- **Cloud Public** = Idéal pour les startups, applications web et besoins évolutifs.
-- **Cloud Privé** = Adapté aux entreprises avec des exigences de sécurité élevées.
-- **Cloud On-Premise** = Utile pour les grandes entreprises avec des besoins spécifiques.
-- **Cloud Hybride** = Meilleur compromis pour combiner flexibilité et contrôle.
-
-Quel modèle vous intéresse le plus ? 😊
+# Modèle de conso
