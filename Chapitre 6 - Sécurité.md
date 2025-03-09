@@ -132,6 +132,7 @@ C'est une approche de sécurité qui suppose que les menaces peuvent exister à 
 
 # Défense en profondeur
 Approche de sécurité qui utilise plusieurs couches de protection pour réduire les risques. Chaque couche de sécurité joue un rôle spécifique, et l'idée est que même si un attaquant parvient à contourner une couche, d’autres couches de défense continueront de protéger les systèmes.
+**En bref, cette approche fournit plusieurs niveaux de protection et les attaques contre une couche sont isolées des couches suivantes**.
 
 1. Sécurité physique
 2. Identité et accès
@@ -140,3 +141,5 @@ Approche de sécurité qui utilise plusieurs couches de protection pour réduire
 5. Calcul
 6. Application
 7. Données
+
+# Microsoft Defender pour le cloud
