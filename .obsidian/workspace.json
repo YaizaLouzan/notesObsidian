@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 4 -.md",
+                "file": "Chapitre 1 - Introduction au cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 4 -"
+              "title": "Chapitre 1 - Introduction au cloud"
             }
           },
           {
@@ -279,11 +279,11 @@
   },
   "active": "753c921b71daab23",
   "lastOpenFiles": [
+    "Chapitre 2 - services et modèles cloud.md",
+    "Chapitre 4 - Service de calculs réseau.md",
     "Chapitre 3 - Composants d'architecture Azure.md",
-    "Chapitre 4 -.md",
     "Pasted image 20250309154736.png",
     "Pasted image 20250309153510.png",
-    "Chapitre 2 - services et modèles cloud.md",
     "Pasted image 20250309151606.png",
     "Chapitre 1 - Introduction au cloud.md",
     "Chapitre 9 - Outils de gestion et supervision Azure.md",
