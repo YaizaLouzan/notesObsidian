@@ -4,9 +4,8 @@ Un **compte de stockage Azure** est une ressource cloud dans laquelle on peut st
 Principales caractéristiques:
 
 - Offre un nom d'espace unique pour vos données sur Stockage Azure (cf image point de terminaison ci-dessous).
-    
 - Accessible partout dans le monde via les protocoles HTTP ou HTTPS
-    
 - Les données stockées dans ce compte sont sécurisées, hautement disponibles, durables et évolutives
-    
-- Tous vos services vont commencer par : https://<storage-account-name>.
+
+
+#
