@@ -9,5 +9,11 @@ Permet d’appliquer des normes organisationnelles et d’évaluer la conformit�
 ou
 - Lecture seule
 # Portail d'appobation de service
+Portail qui permet d’accéder à divers contenus, outils et autres ressources concernant les pratiques de sécurité, de confidentialité et de conformité Microsoft
+On y trouve
 
+- Rapports d'audit et de conformité
+- Engagements de sécurité et confidentialité
+- Modèles et ressources de mise en conformité
+- Livre
 - types de doc qu'on trouve sur ce portail
