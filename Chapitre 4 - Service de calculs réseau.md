@@ -34,5 +34,5 @@ Service de virtualisation de bureau et d’application, permet de créer un envi
 Les conteneurs Azure offrent un environnement virtualisé léger ne nécessitant pas de gérer le système d’exploitation mais capable de répondre aux changements à la demande
 
 # Azure Fonctions
-C'est une solution serverless qui permet d'écrire moins de code, maintenir moins d'infrastructu
-Azure Functions is **a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs**
+C'est une solution serverless qui permet d'écrire moins de code, maintenir moins d'infrastructure et moins coûteuse.
+
