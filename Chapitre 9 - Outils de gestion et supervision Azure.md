@@ -68,8 +68,23 @@ Pour chaque action, le journal d’audit contient des informations sur l’utili
 
 Analyse les ressources Azure déployées et formule des recommandations basées sur les meilleures pratiques en vue d'optimiser les déploiements Azure
 
-Fiabilité
-Sécurité
-Performances
-Coût
-Excellence opérationnelle
+1. Fiabilité
+2. Sécurité
+3. Performances
+4. Coût
+5. Excellence opérationnelle
+
+En résumé :
+
+- Obtenez des suggestions de meilleures pratiques proactives, exploitables et personnalisées
+- Améliorez les niveaux de performances, la sécurité et la disponibilité de vos ressources
+- Identifiez les opportunités de réduire vos coûts Azure
+
+## Azure Service Health
+ensemble de services qui vous informent :
+
+•de l’état général d’Azure
+
+•de l’état du service susceptible de vous impacter
+
+et de l’état d’une ressource spécifique qui vous impacte
