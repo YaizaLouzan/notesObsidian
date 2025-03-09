@@ -57,7 +57,8 @@ Avantages:
 - Compatibilité
 - Sécurité intégrée
 
-## Azure Multi-Factor Authentification
+## Authentification
+### Azure Multi-Factor Authentification
 
 Méthode de sécurité renforcée qui exige au moins deux éléments d'authentification avant d'accorder un accès.
 
