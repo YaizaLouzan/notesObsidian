@@ -66,4 +66,10 @@ Pour chaque action, le journal d’audit contient des informations sur l’utili
 
 ## Azure Advisor
 
-Analyse les ressources Azure 
+Analyse les ressources Azure déployées et formule des recommandations basées sur les meilleures pratiques en vue d'optimiser les déploiements Azure
+
+Fiabilité
+Sécurité
+Performances
+Coût
+Excellence opérationnelle
