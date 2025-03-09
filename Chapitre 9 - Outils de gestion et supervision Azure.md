@@ -38,3 +38,26 @@ Ce modèle est suffisamment flexible pour être utilisé dans tous vos environne
 
 Si vous créez une solution depuis la Place de marché Azure, la solution inclura automatiquement un modèle que vous pouvez utiliser pour votre application
 
+## Organiser les ressources
+
+Azure Resource Manager vous aide à gérer et à visualiser les ressources dans votre application
+
+Vous n’avez plus à déployer des composants de votre application séparément, puis à les assembler manuellement
+
+Vous intégrez les ressources présentant un cycle de vie commun dans un groupe de ressources, qui peut être déployé ou supprimé dans une seule action
+
+Vous pouvez voir les ressources qui sont liées par une dépendance
+
+Vous pouvez appliquer des étiquettes aux ressources afin de les classer pour des tâches de gestion telles que la facturation
+
+## Contrôler l’accès aux ressources
+
+Avec Azure Resource Manager, vous pouvez contrôler qui, au sein de votre organisation, peut agir au niveau des ressources
+
+Vous gérez les autorisations en définissant des rôles et en ajoutant des utilisateurs ou des groupes aux rôles
+
+Pour les ressources critiques, vous pouvez appliquer un verrou explicite qui empêche les utilisateurs de supprimer ou de modifier la ressource
+
+Azure Resource Manager enregistre toutes les actions des utilisateurs afin que vous puissiez les contrôler
+
+Pour chaque action, le journal d’audit contient des informations sur l’utilisateur, l’heure, les événements et le statut
