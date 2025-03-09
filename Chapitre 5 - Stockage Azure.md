@@ -96,8 +96,9 @@ Traite des objets blob, de table et de file d'attente
 # Niveaux d'accès au stockage Azure
 Azure Storage propose différents niveaux d'accès pour stocker des objets blob de manière économique. Ces niveaux comprennent :
 
-- **Niveau d’accès chaud** : adapté pour stocker des données souvent consultées (par exemple, des images de site web)
+- **Niveau d’accès chaud** : adapté pour *stocker des données souvent consultées* (par exemple, des images de site web)
     
-- **Niveau d’accès froid** : adapté pour stocker des données consultées rarement et stockées pendant au moins 30 jours (par exemple, des factures clients)
+- **Niveau d’accès froid** : adapté pour *stocker des données consultées rarement* et stockées pendant au moins *30 jours* (par exemple, des factures clients)
     
-- **Niveau d’accès archive** : adapté pour stocker des données rarement consultées et stockées pendant au moins 180 jours, avec une latence flexible (par exemple, des sauvegardes à long terme)
+- **Niveau d’accès archive** : adapté pour *stocker des données rarement consultées* et stockées pendant au moins *180 jours*, avec une latence flexible (par exemple, des sauvegardes à long terme)
+# Azure Data Box
