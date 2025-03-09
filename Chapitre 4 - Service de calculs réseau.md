@@ -31,7 +31,7 @@ Communication sécurisée entre les ressources Azure, Internet, et les réseaux 
 
 - **Points de terminaison publics** : accessibles depuis n'importe où sur Internet.
 - **Points de terminaison privés** : accessibles uniquement depuis votre réseau interne.
-- **Sous-réseaux virtuels **: segmentation de votre réseau selon vos besoins.
+- **Sous-réseaux virtuels**: segmentation de votre réseau selon vos besoins.
 - **Appairage de réseaux** : connectez directement vos réseaux privés ensemble pour une meilleure intégration.
 
 ## Azure Virtual Desktop
