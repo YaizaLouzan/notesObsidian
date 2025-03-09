@@ -89,6 +89,17 @@ Service de Microsoft Azure qui permet de **créer une connexion directe entre le
 Azure DNS est conçu pour être **rapide** et **fiable** grâce à un réseau mondial de serveurs DNS répartis dans plusieurs centres de données. Il utilise une technologie appelée **Anycast**, qui permet d’envoyer les requêtes DNS (celles qui convertissent les noms de domaine en adresses IP) vers le **serveur le plus proche** de l’utilisateur. Cela garantit que les **temps de réponse** sont plus rapides, peu importe où se trouve l’utilisateur dans le monde, et cela améliore également la **disponibilité** du service.
 
 Azure DNS tire parti de la sécurité offerte par **Azure Resource Manager**, qui est la plateforme de gestion des ressources dans Azure. Un aspect clé de cette sécurité est le **RBAC** (**Role-Based Access Control**).
+
+En plus de cela, Azure DNS propose :
+
+- **La journalisation** : Toutes les actions et modifications effectuées sur les ressources DNS sont enregistrées, ce qui permet de suivre ce qui a été fait et par qui.
+    
+- **Le verrouillage des ressources** : Cela empêche les modifications accidentelles ou non autorisées sur les zones DNS.
+    
+
+Azure DNS permet de gérer aussi bien des ressources DNS pour des services Azure que pour des **services externes** (par exemple, des domaines que vous possèdez, mais qui ne sont pas hébergés sur Azure). Cela signifie que vous pouvez centraliser la gestion de **tous vos domaines** en utilisant un seul outil, ce qui facilite grandement l’administration de tes noms de domaine.
+
+Avec Azure DNS, il est possible de créer des **noms de domaine privés** personnalisés dans les **réseaux virtuels** d’une entreprise (appelés **VNet** dans Azure). Cela permet aux entreprises de gérer leurs propres services internes avec des **noms de domaine sur mesure**, qui ne sont pas visibles depuis Internet. C’est utile pour des entreprises qui veulent isoler certains services pour des raisons de sécurité ou d’organisation interne.
 ### RBAC 
 Le **contrôle d'accès basé sur les rôles (RBAC)** est un système qui permet de **limiter l’accès** aux ressources en fonction des rôles des utilisateurs. Autrement dit, chaque personne dans une entreprise a des **droits** spécifiques en fonction de son **rôle** :
 
@@ -96,3 +107,6 @@ Le **contrôle d'accès basé sur les rôles (RBAC)** est un système qui permet
     
 - RBAC garantit que **seules les personnes autorisées** peuvent modifier ou consulter certaines ressources, ce qui renforce la **sécurité** et empêche les erreurs ou les changements accidentels.
 ### Anycast
+**Anycast** est une technique de routage utilisée dans les réseaux informatiques, qui permet d'envoyer une requête à plusieurs serveurs en même temps, mais en assurant que la réponse vienne du **serveur le plus proche** ou le plus accessible.
+
+Dans un système **Anycast**, plusieurs serveurs partagent une même adresse IP publique. Lorsqu'une requête est envoyée à cette adresse, le réseau choisit automatiquement **le serveur le plus proche** en fonction de la position géographique ou des conditions du réseau, comme la latence ou la congestion ou la disponibilité.
