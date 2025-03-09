@@ -81,10 +81,14 @@ En résumé :
 - Identifiez les opportunités de réduire vos coûts Azure
 
 ## Azure Service Health
-ensemble de services qui vous informent :
+c'est un ensemble de services qui vous informent :
 
-•de l’état général d’Azure
+De l’état général d’Azure, de l’état du service susceptible de vous impacter et de l’état d’une ressource spécifique qui vous impacte
 
-•de l’état du service susceptible de vous impacter
+### Azure Status
+Vue globale de l’intégrité des services Azure dans l’ensemble des régions Azure
 
-et de l’état d’une ressource spécifique qui vous impacte
+### Service Health
+Vue axée uniquement sur les services et régions que vous utilisez
+
+•Si un service rencontre un problème dans une région que vous n’utilisez pas, il n’apparaîtra pas ici
