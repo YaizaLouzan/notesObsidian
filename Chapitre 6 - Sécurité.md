@@ -47,6 +47,13 @@ Fonctionnalités:
 ## Services B2B (Business to business)
 Fonctionnalité utilisée lorsque vous voulez collaborer avec **des membres d'autres organisations**
 
+### Principes
+1. Inviter des utilisateurs externes  
+2. Pas besoin de créer des comptes dans votre annuaire
+    - Les utilisateurs gardent leurs identités d'origine (leurs propres identifiants). Cela réduit la gestion des identités dans votre système.
+3. **Sécurité renforcée** :
+    
+    - Vous pouvez appliquer vos **politiques de sécurité** (authentification multi-facteurs, restrictions d'accès, etc.) même pour ces comptes externes.
 
 - Services B2C (buissiness to customer)
 
